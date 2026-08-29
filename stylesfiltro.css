@@ -1,0 +1,465 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+header h1 {
+    color: white; /* Asegúrate de que el color sea blanco */
+    transition: color 0.3s ease; /* Transición suave para el color */
+}
+
+header h1:hover {
+    color: #ffcc00; /* Color de hover */
+}
+
+.image-container {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+    transition: transform 0.3s ease; /* Transición suave para el tamaño */
+}
+
+.image-container img:hover {
+    transform: scale(1.05); /* Zoom al pasar el cursor */
+}
+
+/* Sombra en el texto */
+h1, h2, .progress-details p {
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+}
+/* Estilo del menú */
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 0;
+    margin: 10px 0;
+    background-color: #6b6b6b;
+    border-radius: 5px;
+}
+
+.menu li {
+    display: inline;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 3px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.menu a:hover {
+    background-color: #272727;
+    transform: scale(1.05); /* Efecto de agrandamiento al pasar el mouse */
+}
+
+/* Sombra en el texto */
+h1, h2, .progress-details p {
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.progress-details {
+    text-align: center;
+    margin-bottom: 2rem;
+    background-color: #f1f1f1;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease; /* Transición suave para la sombra */
+}
+
+.progress-details:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra más intensa al pasar el cursor */
+}
+
+.progress-details p {
+    margin: 0.5rem 0;
+    font-size: 1.6rem;
+}
+
+/* Galería de mantenimiento: diseño responsivo */
+.maintenance-gallery {
+    display: grid; /* Cambia a diseño de rejilla */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Cada foto será al menos 300px de ancho */
+    gap: 20px; /* Espacio entre fotos */
+    justify-content: center;
+    margin-top: 20px;
+}
+
+/* Estilo de cada elemento de mantenimiento */
+.maintenance-item {
+    max-width: 100%; /* Permite que ocupe todo el espacio disponible */
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.maintenance-item:hover {
+    transform: scale(1.05); /* Efecto de zoom al pasar el cursor */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada al hover */
+}
+
+/* Imágenes de mantenimiento */
+.maintenance-item img {
+    width: 100%; /* Ocupa todo el contenedor */
+    height: auto; /* Mantiene la proporción */
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para destacar */
+}
+
+/* Texto debajo de las imágenes */
+.maintenance-item p {
+    margin: 5px 0 0;
+    font-size: 1rem; /* Texto más grande */
+    color: #333;
+}
+
+/* Nueva clase para los botones de reinicio */
+.filters button.reinicio {
+    background-color: #28a745; /* Un color verde */
+    border-color: #218838;
+}
+
+.filters button.reinicio:hover {
+    background-color: #218838; /* Un verde más oscuro al pasar el cursor */
+}
+/* ... (todo tu CSS anterior) ... */
+
+/* Estilos para la Leyenda de colores */
+.leyenda {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Espacio entre los ítems de la leyenda */
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+}
+
+.leyenda-item {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Espacio entre el cuadro de color y el texto */
+}
+
+.color-box {
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.leyenda-item p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #333;
+}
+
+/* Colores específicos para cada etapa */
+.color-box.etapa-uno {
+    background-color: #007bff; /* Mismo azul que los botones por defecto */
+}
+
+.color-box.etapa-dos {
+    background-color: #28a745; /* Mismo verde que los botones de reinicio */
+}
+
+/* ... (tu CSS anterior) ... */
+
+/* Contenedor principal para el anuncio y el gráfico */
+.anuncio-y-grafico {
+    display: flex; /* Activa Flexbox */
+    flex-wrap: wrap; /* Permite que los elementos se envuelvan en pantallas pequeñas */
+    gap: 20px; /* Espacio entre el anuncio y el gráfico */
+    align-items: center; /* Centra verticalmente los elementos */
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Estilo para el anuncio (ahora es un elemento flexible) */
+.anuncio-importante {
+    flex: 2; /* Ocupa el doble de espacio que el gráfico */
+    min-width: 300px; /* Ancho mínimo antes de envolverse */
+    background-color: #f0f8ff;
+    border-left: 5px solid #0056b3;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+/* Contenedor del gráfico (elemento flexible) */
+.grafico-progreso {
+    flex: 1; /* Ocupa una parte del espacio */
+    min-width: 250px; /* Ancho mínimo */
+    padding: 15px;
+    background-color: #f8f9fa;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.grafico-progreso h4 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.grafico-circular-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+/* EL GRÁFICO CIRCULAR (La Magia del CSS) */
+.grafico-circular {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%; /* Lo hace un círculo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* 
+       Cálculo del gradiente cónico:
+       - Avance deseado: 13%
+       - Grados: 13% de 360 = 46.8 grados
+    */
+   background: conic-gradient(
+        #28a745 0% 13%,   /* Verde desde el 0% al 13% */
+        #e0e0e0 13% 100%  /* Gris desde el 13% hasta el 100% */
+    );
+}
+
+/* Estilo para el porcentaje en el centro */
+.grafico-circular .porcentaje {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    background-color: white; /* Círculo blanco interior */
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Leyenda del gráfico */
+.leyenda-grafico {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.leyenda-grafico-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* Colores para la leyenda del gráfico */
+.leyenda-grafico .color-box.culminadas {
+    background-color: #28a745;
+}
+
+.leyenda-grafico .color-box.pendientes {
+    background-color: #e0e0e0;
+}
+
+/* ... (tu CSS para footer) ... */
+
+
+#map {
+    width: 100%;
+    height: 400px;
+    margin-bottom: 2rem;
+}
+/* Animaciones */
+.photo-gallery, .maintenance-gallery, .video-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Ajusta el tamaño mínimo según sea necesario */
+    gap: 1rem;
+    transition: all 0.3s ease; /* Transición suave */
+}
+
+.photo-gallery .photo-item, .maintenance-gallery .maintenance-item, .video-gallery .video-item {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    background-color: #f9f9f9;
+    text-align: center;
+    animation: fadeIn 1s ease-in-out;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Transición suave para el tamaño y la sombra */
+}
+
+.photo-gallery .photo-item:hover, .maintenance-gallery .maintenance-item:hover, .video-gallery .video-item:hover {
+    transform: scale(1.05); /* Zoom al pasar el cursor */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra más intensa al pasar el cursor */
+}
+
+.photo-gallery img, .maintenance-gallery img {
+    width: 100%;
+    height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+    margin-bottom: 0.5rem;
+}
+
+.filters {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.filters button {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.filters button:hover {
+    background-color: #0056b3;
+}
+
+.photo-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Diseño de rejilla responsivo */
+    gap: 20px; /* Espacio entre las fotos */
+    justify-content: center;
+    padding: 20px;
+}
+h1, h2 {
+    text-align: center;
+}
+
+.photo-item {
+    text-align: center;
+}
+
+.photo-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.week-section {
+    margin-bottom: 30px;
+}
+
+.week-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#fullscreen-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    transition: opacity 0.3s ease;
+}
+
+#fullscreen-container.hidden {
+    display: none;
+}
+
+#fullscreen-container img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 5px;
+}
+
+#close-fullscreen {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 2rem;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    transition: transform 0.3s ease;
+}
+
+#close-fullscreen:hover {
+    transform: scale(1.2);
+}
+.video-grid {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Ajusta el ancho mínimo y máximo */
+    width: 100%;
+    margin: auto;
+    padding: 16px;
+    box-sizing: border-box;
+}
+
+.video-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+/* Estilo para el bloque de anuncio */
+.anuncio-importante {
+    background-color: #f0f8ff; /* Un azul claro, tipo "hielo" */
+    border-left: 5px solid #0056b3; /* Un borde azul oscuro a la izquierda */
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.anuncio-importante h3 {
+    margin-top: 0;
+    color: #0056b3;
+}
+
+.anuncio-importante p {
+    line-height: 1.6;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}

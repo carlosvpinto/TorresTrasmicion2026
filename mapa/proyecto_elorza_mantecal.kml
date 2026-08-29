@@ -1,0 +1,3856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1qBcAcAZItTNlz0LLveaomSj4FWGt_qiB">
+	<name>Proyecto Elorza- Mantecal</name>
+	<gx:CascadingStyle kml:id="__managed_style_1563D74740365B6ADCFF">
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2716E29354365B6ADCFF">
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0427971EFC365B6ADCFF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1563D74740365B6ADCFF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2716E29354365B6ADCFF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_355FF0C04E365B6ADCFE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_482AA1626E365B6ADCFE</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_50BF8C80C4365B6ADCFE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_11A46A4BF6365B6ADCF6">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_03AEBE5FE8365B6ADCF6">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_50BF8C80C4365B6ADCFE">
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2004&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_482AA1626E365B6ADCFE">
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2004&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E0CC33DD2365B6ADCF5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_03AEBE5FE8365B6ADCF6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_11A46A4BF6365B6ADCF6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0105E065B036595A5097">
+		<name>Torre 01</name>
+		<LookAt>
+			<longitude>-69.51811807878089</longitude>
+			<latitude>7.06035964936508</latitude>
+			<altitude>90.67073423741211</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1144.384511928074</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.51896689248817,7.058896402926031,91.83879299733707</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04C3DEF84F36595AAA35">
+		<name>Torre 02</name>
+		<LookAt>
+			<longitude>-69.51811807878089</longitude>
+			<latitude>7.06035964936508</latitude>
+			<altitude>90.67073423741211</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1144.384511928074</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.51883505383152,7.060830886512045,91.52432471479017</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AD16C1EEA36595B02E6">
+		<name>Torre 03</name>
+		<LookAt>
+			<longitude>-69.51656438875455</longitude>
+			<latitude>7.062856651511519</latitude>
+			<altitude>92.39506527743708</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1142.660191246105</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.51799286403904,7.063833781315759,90.621360514282</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E7BEA6AA636595B3CE8">
+		<name>Torre 04</name>
+		<LookAt>
+			<longitude>-69.51632524634944</longitude>
+			<latitude>7.065779523467623</latitude>
+			<altitude>90.61695906637799</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1144.438283958589</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.51708106562846,7.067133794414232,90.11622349730288</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C14CA069536595B9369">
+		<name>Torre 05</name>
+		<LookAt>
+			<longitude>-69.51577763848282</longitude>
+			<latitude>7.068646677238112</latitude>
+			<altitude>89.99895494654666</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1145.056291467918</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.51436127082296,7.068231241027041,90.50566218788182</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0888FB42F236595BE6B4">
+		<name>Torre 06</name>
+		<LookAt>
+			<longitude>-69.51281960822516</longitude>
+			<latitude>7.069296236127957</latitude>
+			<altitude>89.99860249963004</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1145.056662309508</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.51137859835859,7.069418007162861,90.93515738630857</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="020E2FC73336595C3918">
+		<name>Torre 07</name>
+		<LookAt>
+			<longitude>-69.5087346891066</longitude>
+			<latitude>7.070195688799206</latitude>
+			<altitude>90.74364951215404</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1144.311641555687</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.50821855016649,7.070717272240427,90.61691134321427</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06389B919336595C8A8E">
+		<name>Torre 08</name>
+		<LookAt>
+			<longitude>-69.5057124804123</longitude>
+			<latitude>7.071289153059414</latitude>
+			<altitude>89.99852820229614</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1145.056755019905</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.50553608005951,7.07177994170158,89.59576767438247</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04F54893F136595CD18D">
+		<name>Torre 09</name>
+		<LookAt>
+			<longitude>-69.50272278887346</longitude>
+			<latitude>7.07266331469938</latitude>
+			<altitude>89.99864293593986</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1145.05656959911</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.50303756284355,7.072803884909793,90.42249197836163</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07DE7BD2E736595D653E">
+		<name>Torre 10</name>
+		<LookAt>
+			<longitude>-69.50066347419798</longitude>
+			<latitude>7.074751440942088</latitude>
+			<altitude>89.38049626481872</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1145.674762529234</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.50155145462672,7.075373292998444,90.01930943678168</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="025AFAAB2436595DA898">
+		<name>Torre 11</name>
+		<LookAt>
+			<longitude>-69.50005258126222</longitude>
+			<latitude>7.076432663415962</latitude>
+			<altitude>89.99892478341351</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1145.056291467918</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.49977555055355,7.078254003941138,90.31644180584613</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A402C36BF36595DE1E7">
+		<name>Torre 12</name>
+		<LookAt>
+			<longitude>-69.49813176203845</longitude>
+			<latitude>7.080232726308102</latitude>
+			<altitude>89.99895303535668</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1145.056291467918</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.49802573118281,7.081152303304388,89.73320162073693</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0382C583D636595E16A5">
+		<name>Torre 13</name>
+		<LookAt>
+			<longitude>-69.49640612166594</longitude>
+			<latitude>7.083170177724205</latitude>
+			<altitude>89.99858237767121</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1145.056662309507</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.4961858484518,7.084191312506402,90.80760613122604</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="019C92D49036595E48C4">
+		<name>Torre 14</name>
+		<LookAt>
+			<longitude>-69.49483891016982</longitude>
+			<latitude>7.085718519169568</latitude>
+			<altitude>89.99844908525517</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1145.056847730302</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.49432238025591,7.087328154772131,89.7944652302388</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CA776BF9936595ED544">
+		<name>Torre 15</name>
+		<LookAt>
+			<longitude>-69.49262468132471</longitude>
+			<latitude>7.088970306897244</latitude>
+			<altitude>91.23558586775091</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1143.819720186875</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.49246740009649,7.090296974222089,91.23560888408035</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E3C0EACCA36595F1BAD">
+		<name>Torre 16</name>
+		<LookAt>
+			<longitude>-69.49042269003471</longitude>
+			<latitude>7.091792275926572</latitude>
+			<altitude>90.12541259070902</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1144.929834485811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.49053601139062,7.093444723255837,90.44925262181931</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0039A091A436595F690B">
+		<name>Torre 17</name>
+		<LookAt>
+			<longitude>-69.48858562720893</longitude>
+			<latitude>7.094433129022979</latitude>
+			<altitude>91.21406962298236</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1143.841228999081</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.48882457124873,7.096301957691889,91.84395449480074</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0055D3445536595F9EE3">
+		<name>Torre 18</name>
+		<LookAt>
+			<longitude>-69.48723920548541</longitude>
+			<latitude>7.0968743368689</latitude>
+			<altitude>90.40929090956067</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1144.645955248852</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.48720774911757,7.098975108410314,91.26273826413096</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08D469B6DF36595FD709">
+		<name>Torre 19</name>
+		<LookAt>
+			<longitude>-69.48547048016444</longitude>
+			<latitude>7.100291043311644</latitude>
+			<altitude>89.03539573897987</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1146.019830628502</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.48537101809271,7.101964584903953,91.54238010147229</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EC176F3F236596019AB">
+		<name>Torre 20</name>
+		<LookAt>
+			<longitude>-69.4832776013798</longitude>
+			<latitude>7.103660779476153</latitude>
+			<altitude>91.20409963234312</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1143.851149011607</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.48351103266486,7.10503687385082,89.99859672786457</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05A9400853365960A209">
+		<name>Torre 21</name>
+		<LookAt>
+			<longitude>-69.48138778806211</longitude>
+			<latitude>7.107416797169723</latitude>
+			<altitude>90.95995719835302</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1144.095255488064</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.48177784615453,7.107944323139049,91.27595834863571</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0347F7DE5B365960EC87">
+		<name>Torre 22</name>
+		<LookAt>
+			<longitude>-69.48035484392975</longitude>
+			<latitude>7.109179299675785</latitude>
+			<altitude>90.36596106800346</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1144.689251004456</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.48025447678063,7.110408679952987,94.61118299477049</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DA285CD4736596131C1">
+		<name>Torre 23</name>
+		<LookAt>
+			<longitude>-69.47892928658061</longitude>
+			<latitude>7.111499718777011</latitude>
+			<altitude>96.90803226159203</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1138.147234519565</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.47871116445558,7.112977521939776,93.28249397757692</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DB7F9421A365962E2F8">
+		<name>Torre 24</name>
+		<LookAt>
+			<longitude>-69.47718274178277</longitude>
+			<latitude>7.115077189809218</latitude>
+			<altitude>91.5562737227139</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>515.1476411301701</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.47734134795094,7.115191012669298,91.79582068835748</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AF91ECBB63659631BC1">
+		<name>Torre 25</name>
+		<LookAt>
+			<longitude>-69.47596229266532</longitude>
+			<latitude>7.115388282378985</latitude>
+			<altitude>91.63274306672523</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>869.2333099157258</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.47492918896927,7.116339862887707,91.33345625888242</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01943ECA4B3659637329">
+		<name>Torre 26</name>
+		<LookAt>
+			<longitude>-69.47280168085629</longitude>
+			<latitude>7.117267278961577</latitude>
+			<altitude>92.13530773798399</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>868.730819561606</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.47197758215218,7.117816405241405,89.81155457050542</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F3B3D9E5365963AEE3">
+		<name>Torre 27</name>
+		<LookAt>
+			<longitude>-69.46987768411496</longitude>
+			<latitude>7.118879844846999</latitude>
+			<altitude>90.95454138247352</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>869.9115791833904</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.46904981315268,7.119328576126035,90.88490581726131</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00FC5B5C613659644D50">
+		<name>Torre 28</name>
+		<LookAt>
+			<longitude>-69.46652244225623</longitude>
+			<latitude>7.120610905439754</latitude>
+			<altitude>92.1216838067277</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>868.7443552796321</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.46587644957472,7.120940906350935,90.93299370987616</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="009A66D0AE365964E65D">
+		<name>Torre 29</name>
+		<LookAt>
+			<longitude>-69.46319440749933</longitude>
+			<latitude>7.12223168571608</latitude>
+			<altitude>90.38628144965094</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1207.634233662538</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.46269640321128,7.122643486558873,90.86738242184126</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="052E1A84213659651295">
+		<name>Torre 30</name>
+		<LookAt>
+			<longitude>-69.46003700608505</longitude>
+			<latitude>7.123326596499415</latitude>
+			<altitude>88.41432854604527</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1209.606183816068</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.45945178491607,7.124286735382491,89.02204119780346</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="025B876B3B365965499B">
+		<name>Torre 31</name>
+		<LookAt>
+			<longitude>-69.45661098473593</longitude>
+			<latitude>7.124749669258729</latitude>
+			<altitude>89.90382077542063</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1208.116605860414</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.45629865788375,7.126005811468431,89.93319442866687</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="049637D25336596577FA">
+		<name>Torre 32</name>
+		<LookAt>
+			<longitude>-69.45365595417955</longitude>
+			<latitude>7.126594648047921</latitude>
+			<altitude>90.99437983500256</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1207.026146165736</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.45324396835744,7.127659511003054,89.99582019886763</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B61D71B77365965A349">
+		<name>Torre 33</name>
+		<LookAt>
+			<longitude>-69.45018227774734</longitude>
+			<latitude>7.12812657244027</latitude>
+			<altitude>85.24162274674255</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1212.77882632683</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.45005580989086,7.129397986182844,87.95028641571675</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D6C58FF8D365965CDA0">
+		<name>Torre 34</name>
+		<LookAt>
+			<longitude>-69.44701542043084</longitude>
+			<latitude>7.129440294622456</latitude>
+			<altitude>89.99851721613669</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1208.021948544629</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.44688930440175,7.131136277913869,91.32282667993951</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01123BE8E73659660499">
+		<name>Torre 35</name>
+		<LookAt>
+			<longitude>-69.44463814431448</longitude>
+			<latitude>7.131015080844112</latitude>
+			<altitude>90.61710066419478</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1207.403384772915</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.4438946660016,7.132763882570947,91.23500637118099</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C13C49A3536596653DB">
+		<name>Torre 36</name>
+		<LookAt>
+			<longitude>-69.44153056170246</longitude>
+			<latitude>7.133114785528736</latitude>
+			<altitude>88.18848572080752</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1209.832026344229</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.44087768384196,7.134387294654499,86.90822146645191</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CF6FF74E3365966F6CA">
+		<name>Torre 37</name>
+		<LookAt>
+			<longitude>-69.43730016009469</longitude>
+			<latitude>7.135758961971477</latitude>
+			<altitude>86.54029128392943</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1211.480139079504</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.43783270790671,7.136264265680611,87.85131868040793</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04CF93836A365967C12F">
+		<name>Torre 38</name>
+		<LookAt>
+			<longitude>-69.43560712980421</longitude>
+			<latitude>7.137352888183055</latitude>
+			<altitude>86.71253167943436</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1211.30797587146</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.43504750672552,7.137587562480178,86.88550874460488</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08FDE5364636596863BC">
+		<name>Torre 39</name>
+		<LookAt>
+			<longitude>-69.43313250668047</longitude>
+			<latitude>7.138524347370182</latitude>
+			<altitude>86.28972824042471</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1211.730735283782</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.43346557330523,7.139816539962798,87.04675855421281</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CA31E34D7365968A500">
+		<name>Torre 40</name>
+		<LookAt>
+			<longitude>-69.4314005113109</longitude>
+			<latitude>7.140500691644431</latitude>
+			<altitude>87.65914096882209</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1210.361310003209</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.43185305550597,7.142181262898656,88.19412657612494</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A2F71D059365968D0FA">
+		<name>Torre 41</name>
+		<LookAt>
+			<longitude>-69.42889858384785</longitude>
+			<latitude>7.143406883908511</latitude>
+			<altitude>86.28977518270251</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1211.730642573384</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.43002191085716,7.144769559212336,85.67147484964305</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04C34BDCFB36596A65E6">
+		<name>Torre 42 Aprox</name>
+		<LookAt>
+			<longitude>-69.4273817075744</longitude>
+			<latitude>7.144687551613962</latitude>
+			<altitude>84.50247053448463</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2276.780086100916</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42791994941344,7.147277119248391,85.79385837856501</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08B5711E8F36596B099D">
+		<name>Torre 43 Aprox</name>
+		<LookAt>
+			<longitude>-69.42348696675674</longitude>
+			<latitude>7.148663859683863</latitude>
+			<altitude>84.98655751963602</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2276.2955815639</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42602898456323,7.149924978315325,84.8987037261499</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0883B9EB1636596C39D2">
+		<name>Torre 44 Aprox</name>
+		<LookAt>
+			<longitude>-69.42334519967018</longitude>
+			<latitude>7.1520033421298</latitude>
+			<altitude>90.03773207750523</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2088.878546408087</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42479433223006,7.152921969271998,88.18225853475374</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BBEE17E0836596CC6C1">
+		<name>Torre 45 Aprox</name>
+		<LookAt>
+			<longitude>-69.42220868201792</longitude>
+			<latitude>7.155090184712688</latitude>
+			<altitude>91.10903078826547</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2087.806814213691</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42423258757144,7.156008676309044,88.48704435111908</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0161A813C436596D24D9">
+		<name>Torre 46</name>
+		<LookAt>
+			<longitude>-69.42348864580673</longitude>
+			<latitude>7.158561576331125</latitude>
+			<altitude>88.16044266038116</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>482.7458671323984</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42396161525573,7.158842354633187,87.88201467200065</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E4F4BA70436596DB4EB">
+		<name>Torre 47</name>
+		<LookAt>
+			<longitude>-69.42258843124215</longitude>
+			<latitude>7.160403868291901</latitude>
+			<altitude>88.09772527613548</altitude>
+			<heading>359.9999991404968</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1146.463542590645</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42353521585413,7.162260741886157,87.17105760760374</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07B1501EBC36596DFAFD">
+		<name>Torre 48</name>
+		<LookAt>
+			<longitude>-69.42199504970702</longitude>
+			<latitude>7.163353893581388</latitude>
+			<altitude>87.04159898491491</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1147.519606727874</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42312821584949,7.165510732398563,89.99861402477052</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01EA741E6936596E2525">
+		<name>Torre 49</name>
+		<LookAt>
+			<longitude>-69.42152829121451</longitude>
+			<latitude>7.16690860095211</latitude>
+			<altitude>90.61675398197038</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1143.944415671431</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42268198380607,7.168827021276869,89.28657049342786</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="028DD4C02736596EC296">
+		<name>Torre 50</name>
+		<LookAt>
+			<longitude>-69.42171538891752</longitude>
+			<latitude>7.172179024122986</latitude>
+			<altitude>89.70183583698167</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>622.5844825848618</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.4222533410482,7.172354105049979,89.43108579902696</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02B4B25FA936596F0F0E">
+		<name>Torre 51</name>
+		<LookAt>
+			<longitude>-69.42131348931271</longitude>
+			<latitude>7.174132886527454</latitude>
+			<altitude>88.6119061049595</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>942.3278560438484</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42180623171571,7.175827888562845,88.28501796631133</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0303E8637036596F4122">
+		<name>Torre 52</name>
+		<LookAt>
+			<longitude>-69.42094516338165</longitude>
+			<latitude>7.178459266212503</latitude>
+			<altitude>88.40005881223398</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>942.539699301997</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42136472578697,7.179366329510659,89.38091022206235</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="099E6722D836596F72D2">
+		<name>Torre 53</name>
+		<LookAt>
+			<longitude>-69.4204907449429</longitude>
+			<latitude>7.182431448074919</latitude>
+			<altitude>90.94456206081344</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>939.995169733884</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42091492370901,7.182972907022172,90.63605619306747</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09BE465A2936596F9A48">
+		<name>Torre 54</name>
+		<LookAt>
+			<longitude>-69.4198152012403</longitude>
+			<latitude>7.185054260733587</latitude>
+			<altitude>91.23560232435572</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1296.837211345701</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42048033346376,7.1862276017913,89.99868830937258</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="012A5BAB7036596FC301">
+		<name>Torre 55</name>
+		<LookAt>
+			<longitude>-69.41930119866313</longitude>
+			<latitude>7.188687755442478</latitude>
+			<altitude>90.31784977003086</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1297.75495156995</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.42010320244366,7.18927446749558,87.85632484381887</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D8378BA55365A2F6782">
+		<name>Torre 56</name>
+		<LookAt>
+			<longitude>-69.42114060833732</longitude>
+			<latitude>7.193387763151272</latitude>
+			<altitude>88.39921047588241</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>2063.719725855045</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.41959669015154,7.193354253133917,88.18403381380979</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05B790E9AF365A30512B">
+		<name>Torre 57</name>
+		<LookAt>
+			<longitude>-69.41949358949658</longitude>
+			<latitude>7.196063197996976</latitude>
+			<altitude>90.05363847746389</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>443.2782165490062</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.41921194448868,7.196431999585931,90.38435700440917</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03C8D285C8365A31051D">
+		<name>Torre 58</name>
+		<LookAt>
+			<longitude>-69.42053448930075</longitude>
+			<latitude>7.197511943440077</latitude>
+			<altitude>90.61695122073797</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1665.273986102839</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.4187634427777,7.19996645970488,94.47228440917249</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="029B9A1D5E365A31EFD0">
+		<name>Torre 59</name>
+		<LookAt>
+			<longitude>-69.41844652642602</longitude>
+			<latitude>7.203041787327133</latitude>
+			<altitude>91.50533747091504</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>313.3690932606623</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.41836135776565,7.20320131078575,90.79862012050005</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03CB7B03EA365A32E7E0">
+		<name>Torre 60</name>
+		<LookAt>
+			<longitude>-69.41673592797142</longitude>
+			<latitude>7.204302634255593</latitude>
+			<altitude>88.81651298952096</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>884.0439813274133</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.4162564457323,7.205346293926045,88.77448448019616</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E125C4848365A34B7A2">
+		<name>Torre 61 aprox</name>
+		<LookAt>
+			<longitude>-69.41036645190775</longitude>
+			<latitude>7.209699328052129</latitude>
+			<altitude>90.75880922815109</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>3800.096838749014</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.41418616759535,7.207804547121998,90.98314711364175</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CB4F803BF365A384E9B">
+		<name>Torre 62</name>
+		<LookAt>
+			<longitude>-69.40787705288035</longitude>
+			<latitude>7.217641712312822</latitude>
+			<altitude>89.44082699150748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5214.172930094646</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.41216750707855,7.209672789541014,89.73965370617844</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06D43B523C365A388EB0">
+		<name>Torre 63 aprox</name>
+		<LookAt>
+			<longitude>-69.40787705288035</longitude>
+			<latitude>7.217641712312822</latitude>
+			<altitude>89.44082699150748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5214.172930094646</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.41038711100043,7.211440374196941,91.45013004618319</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02E46A1DC0365A38D236">
+		<name>Torre 64 aprox</name>
+		<LookAt>
+			<longitude>-69.40787705288035</longitude>
+			<latitude>7.217641712312822</latitude>
+			<altitude>89.44082699150748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5214.172930094646</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.4088031103496,7.213108510495068,91.35381812226488</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EC1B01E5F365A39221E">
+		<name>Torre 65 aprox</name>
+		<LookAt>
+			<longitude>-69.40787705288035</longitude>
+			<latitude>7.217641712312822</latitude>
+			<altitude>89.44082699150748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5214.172930094646</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.40717031801917,7.214680003036259,91.31073183647848</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C16E31AB4365A396980">
+		<name>Torre 66 aprox</name>
+		<LookAt>
+			<longitude>-69.40787705288035</longitude>
+			<latitude>7.217641712312822</latitude>
+			<altitude>89.44082699150748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5214.172930094646</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.40583080000256,7.216252094535738,93.83471354465216</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08DB1EFCAD365A39C1D1">
+		<name>Torre 67 aprox</name>
+		<LookAt>
+			<longitude>-69.40787705288035</longitude>
+			<latitude>7.217641712312822</latitude>
+			<altitude>89.44082699150748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5214.172930094646</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.40402908963956,7.218088678394404,94.76737383497208</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03C5E89388365A3A0889">
+		<name>Torre 68 aprox</name>
+		<LookAt>
+			<longitude>-69.40787705288035</longitude>
+			<latitude>7.217641712312822</latitude>
+			<altitude>89.44082699150748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5214.172930094646</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.40217324899778,7.219830144846032,90.31440754427848</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0784B8C33B365A3B1751">
+		<name>Torre 69 aprox</name>
+		<LookAt>
+			<longitude>-69.39987785182259</longitude>
+			<latitude>7.22150280672967</latitude>
+			<altitude>90.60967191823084</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1204.82418151616</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.40103361762341,7.22139933146523,89.61839375750299</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="044F4D1408365A3B576A">
+		<name>Torre 70</name>
+		<LookAt>
+			<longitude>-69.39987785182259</longitude>
+			<latitude>7.22150280672967</latitude>
+			<altitude>90.60967191823084</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1204.82418151616</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.39938223700977,7.223053280357539,90.88438885380917</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07C3E9DF9F365A3BC1A0">
+		<name>Torre 71</name>
+		<LookAt>
+			<longitude>-69.39975021142095</longitude>
+			<latitude>7.221937400423431</latitude>
+			<altitude>89.75566286053817</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>2846.293753262144</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.39683623047056,7.225745642075088,90.27535591070075</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04C8F4506B365A3C98DD">
+		<name>Torre 72 Aprox</name>
+		<LookAt>
+			<longitude>-69.39659883229311</longitude>
+			<latitude>7.22455466544273</latitude>
+			<altitude>90.4506169483449</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>2120.152544776211</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.39475408983402,7.22817055033533,89.41885474190094</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CECA2F0B6365A3DDA96">
+		<name>Torre 73 aprox</name>
+		<LookAt>
+			<longitude>-69.385081484141</longitude>
+			<latitude>7.234143917534057</latitude>
+			<altitude>88.26415426772671</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5315.964867225267</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.39306013585205,7.229791712165614,88.34891771934703</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00E25FEDF2365A3E324B">
+		<name>Torre 74 aprox</name>
+		<LookAt>
+			<longitude>-69.385081484141</longitude>
+			<latitude>7.234143917534057</latitude>
+			<altitude>88.26415426772671</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5315.964867225267</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.39112098177604,7.231665930666125,88.69766747643838</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00C7DD0A1B365A3E7671">
+		<name>Torre 75 aprox</name>
+		<LookAt>
+			<longitude>-69.385081484141</longitude>
+			<latitude>7.234143917534057</latitude>
+			<altitude>88.26415426772671</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5315.964867225267</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.3890594940863,7.2335889443787,87.39068242644119</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C32835328365A3EBE1E">
+		<name>Torre 76 aprox</name>
+		<LookAt>
+			<longitude>-69.385081484141</longitude>
+			<latitude>7.234143917534057</latitude>
+			<altitude>88.26415426772671</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5315.964867225267</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.38721909972689,7.235413803308412,88.2593955362232</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="004D0CCD93365A3EFE9B">
+		<name>Torre 77 aprox</name>
+		<LookAt>
+			<longitude>-69.385081484141</longitude>
+			<latitude>7.234143917534057</latitude>
+			<altitude>88.26415426772671</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5315.964867225267</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.3854544416872,7.237288791910696,86.62330931547746</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="002B0CE1AE365A3F2FD3">
+		<name>Torre 78 Aprox</name>
+		<LookAt>
+			<longitude>-69.385081484141</longitude>
+			<latitude>7.234143917534057</latitude>
+			<altitude>88.26415426772671</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>5315.964867225267</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.38349068266682,7.239087872764121,88.26349165490478</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D4CFCB029365A3FB544">
+		<name>Torre 79</name>
+		<LookAt>
+			<longitude>-69.38309709067691</longitude>
+			<latitude>7.236652059091306</latitude>
+			<altitude>88.18232513640034</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>2759.447473881883</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.38095366342503,7.240501233509891,86.13311710394001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09CDFAFC9B365A3FFAB2">
+		<name>Torre 80</name>
+		<LookAt>
+			<longitude>-69.37799520273174</longitude>
+			<latitude>7.24177618155147</latitude>
+			<altitude>85.70920884009233</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1734.399785537389</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.37849800273494,7.242093958134109,85.71063247009343</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02E2BD2510365A401909">
+		<name>Torre 81</name>
+		<LookAt>
+			<longitude>-69.37799520270579</longitude>
+			<latitude>7.241776181349294</latitude>
+			<altitude>85.05333417521646</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1735.055804309668</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.37601764429789,7.243717852226818,86.77863361138793</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0255BAF2D5365A405838">
+		<name>Torre 82</name>
+		<LookAt>
+			<longitude>-69.3746356602238</longitude>
+			<latitude>7.243727629369227</latitude>
+			<altitude>88.14428670229853</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1731.964839659049</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.37356667506191,7.245338386655789,88.14437720442982</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F5442DF56365A40AE30">
+		<name>Torre 83</name>
+		<LookAt>
+			<longitude>-69.37169384364452</longitude>
+			<latitude>7.245399831816863</latitude>
+			<altitude>86.75732418538594</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1733.351787204738</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.37100559995389,7.24777337269444,88.45254451710643</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E72D67CAD365A41DB0C">
+		<name>Torre 84 aprox</name>
+		<LookAt>
+			<longitude>-69.36420384956297</longitude>
+			<latitude>7.254885154582011</latitude>
+			<altitude>88.71937987352456</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>3859.243476424017</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.36842563659678,7.249846965111626,89.50505339534627</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CBB699BE9365A42143A">
+		<name>Torre 85 aprox</name>
+		<LookAt>
+			<longitude>-69.36420384956297</longitude>
+			<latitude>7.254885154582011</latitude>
+			<altitude>88.71937987352456</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>3859.243476424017</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.36629631924895,7.251959442644671,90.5998644480582</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06E48DA7FA365A425DB0">
+		<name>Torre 86 aprox</name>
+		<LookAt>
+			<longitude>-69.36420384956297</longitude>
+			<latitude>7.254885154582011</latitude>
+			<altitude>88.71937987352456</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>3859.243476424017</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.36429408772214,7.254088462730616,89.41205738039554</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B80F8A6EA365A42BEED">
+		<name>Torre 87 Aprox</name>
+		<LookAt>
+			<longitude>-69.36292394142107</longitude>
+			<latitude>7.255827370473982</latitude>
+			<altitude>88.05067192296764</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>978.6272215051576</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.36289646627053,7.256211213391962,87.36682129585361</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D76B231C7365A42F3F2">
+		<name>Torre 88</name>
+		<LookAt>
+			<longitude>-69.36292394142107</longitude>
+			<latitude>7.255827370473982</latitude>
+			<altitude>88.05067192296764</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>978.6272215051576</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.36133878720379,7.257156683765455,86.90728027540877</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02A66ACD3D365A4378DB">
+		<name>Torre 89 aprox</name>
+		<LookAt>
+			<longitude>-69.36123092832258</longitude>
+			<latitude>7.25596936282221</latitude>
+			<altitude>88.04249296207971</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>2719.255662384094</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.35903030806092,7.259445722254301,86.94718779814586</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0470833DE7365A43E20C">
+		<name>Torre 90 Aprox</name>
+		<LookAt>
+			<longitude>-69.35628881877736</longitude>
+			<latitude>7.259775262217533</latitude>
+			<altitude>86.506420252642</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>3607.117550588446</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.35640043896515,7.261869657871019,83.46015829619185</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0459792E74365A441D8C">
+		<name>Torre 91</name>
+		<LookAt>
+			<longitude>-69.35546980267037</longitude>
+			<latitude>7.262365584384568</latitude>
+			<altitude>85.19924490131295</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1333.727791011479</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.35385678799784,7.264425899639606,87.06229805096287</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="064A56F736365A44C231">
+		<name>Torre 91 Aprox</name>
+		<LookAt>
+			<longitude>-69.35323541378099</longitude>
+			<latitude>7.26466208300991</latitude>
+			<altitude>87.29271734723378</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1077.007786851609</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.35161519718174,7.266651119269476,88.24090472359335</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0065BE489D365A4ACAF5">
+		<name>Sub Estacion Electrica Mantecal</name>
+		<LookAt>
+			<longitude>-69.16607501100299</longitude>
+			<latitude>7.560831867896724</latitude>
+			<altitude>85.8533358699748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>579.8490686229343</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_355FF0C04E365B6ADCFE</styleUrl>
+		<Point>
+			<coordinates>-69.16511986642411,7.560490843629154,89.07261350300885</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D3A6164B3365A4CB7F0">
+		<name>Marcador sin título</name>
+		<LookAt>
+			<longitude>-69.16857655304435</longitude>
+			<latitude>7.560628109147129</latitude>
+			<altitude>86.08571937725395</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>890.5332455961616</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.16604269792823,7.560262482063771,85.96880434571786</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0251BE6946365A4CEE92">
+		<name>Torre 211</name>
+		<LookAt>
+			<longitude>-69.16857655304435</longitude>
+			<latitude>7.560628109147129</latitude>
+			<altitude>86.08571937725395</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>890.5332455961616</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.16885976126406,7.56015125295125,86.5391269717116</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00E4D50BD5365A4D3A53">
+		<name>Torre 210</name>
+		<LookAt>
+			<longitude>-69.17143019638644</longitude>
+			<latitude>7.560376071072588</latitude>
+			<altitude>83.71764742288904</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1182.836798238714</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.17222834729567,7.559988705750535,82.0025401889126</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06FA2AA4F9365A4D63BB">
+		<name>Torre 209</name>
+		<LookAt>
+			<longitude>-69.17424921404246</longitude>
+			<latitude>7.56015097000995</latitude>
+			<altitude>82.21938137297421</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1184.334998261329</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.17572485474049,7.55986225436999,80.97614323881439</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BF8F96840365A4D9199">
+		<name>Torre 208</name>
+		<LookAt>
+			<longitude>-69.17714613062557</longitude>
+			<latitude>7.560307583183895</latitude>
+			<altitude>82.74311571429038</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1591.662486798596</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.17919198895922,7.559750779405306,84.49037422544787</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C899CDD5A365A4EC8E5">
+		<name>Torre 206</name>
+		<LookAt>
+			<longitude>-69.18330196735515</longitude>
+			<latitude>7.560021903685094</latitude>
+			<altitude>82.19964255469796</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1455.820802000526</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.18537869803008,7.559795781588567,82.91114741339419</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C666EC714365A4F97FB">
+		<name>Torre 207</name>
+		<LookAt>
+			<longitude>-69.18166159280281</longitude>
+			<latitude>7.560133932138232</latitude>
+			<altitude>84.98568585007378</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>328.8468855147221</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.18178163426931,7.560256744065681,84.92920437460387</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C091CBD68365A4FF29F">
+		<name>Torre 205</name>
+		<LookAt>
+			<longitude>-69.18723864599234</longitude>
+			<latitude>7.559403433535256</latitude>
+			<altitude>81.74100732372008</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1150.241027734301</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.18866480581462,7.559870239843867,81.83476375603905</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AE7136572365A501D43">
+		<name>Torre 204</name>
+		<LookAt>
+			<longitude>-69.18999869185018</longitude>
+			<latitude>7.559366097374733</latitude>
+			<altitude>82.47475240179573</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1149.50722493857</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.19158527344372,7.55985925778249,82.58120185457776</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="014354BEA3365A5047B0">
+		<name>Torre 203</name>
+		<LookAt>
+			<longitude>-69.19297896249184</longitude>
+			<latitude>7.559339430457908</latitude>
+			<altitude>81.10939207095653</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1150.872663672053</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.19420698350314,7.559865344144608,80.91027177996324</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0993D888C3365A50825E">
+		<name>Torre 202</name>
+		<LookAt>
+			<longitude>-69.19524480846677</longitude>
+			<latitude>7.559318087410815</latitude>
+			<altitude>81.91747214793098</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1150.064599847974</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.19696066510674,7.559917946031526,82.44982394304057</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E2570E4CD365A50BA09">
+		<name>Torre 201</name>
+		<LookAt>
+			<longitude>-69.19777848437077</longitude>
+			<latitude>7.559328749326619</latitude>
+			<altitude>82.01112102028827</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1149.970962346561</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.19970958095875,7.559939298374913,82.39982458599766</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DF6A96C50365A511069">
+		<name>Torre 200</name>
+		<LookAt>
+			<longitude>-69.20234669437883</longitude>
+			<latitude>7.558980857893491</latitude>
+			<altitude>81.76984663880256</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>659.9313364716363</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.20312144295382,7.559514795956528,82.04306290687197</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B24D36026365A51EAE4">
+		<name>Torre 199</name>
+		<LookAt>
+			<longitude>-69.20536840627254</longitude>
+			<latitude>7.558293344605255</latitude>
+			<altitude>82.82622259848966</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>628.7265464152006</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.20598085190544,7.559179218465241,82.28399732854245</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BF692F37D365A526287">
+		<name>Torre 198</name>
+		<LookAt>
+			<longitude>-69.20762816970471</longitude>
+			<latitude>7.556558645867373</latitude>
+			<altitude>82.58081805480866</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1535.073728988937</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.20877815883242,7.557794830501289,81.59859631751618</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D7C26D159365A562BB6">
+		<name>Torre 197</name>
+		<LookAt>
+			<longitude>-69.21120406873996</longitude>
+			<latitude>7.556122402730217</latitude>
+			<altitude>80.82746299330377</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>435.3318229637081</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.21165426530469,7.556412186188048,80.80265247944419</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09806D9E0F365A56DFF7">
+		<name>Torre 196 aprox</name>
+		<LookAt>
+			<longitude>-69.21343078648673</longitude>
+			<latitude>7.555402794766552</latitude>
+			<altitude>81.9625535745982</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>872.8961122977491</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.21442682333169,7.555024428910692,82.44592849081965</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ADCFB38E7365A5751CF">
+		<name>Torre 195 Aprox</name>
+		<LookAt>
+			<longitude>-69.21668909287737</longitude>
+			<latitude>7.553686807110794</latitude>
+			<altitude>81.96295146567998</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>872.8958341665568</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.2172773941605,7.553530882784933,81.73559845800816</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0211424433365A5798CD">
+		<name>Torre 194</name>
+		<LookAt>
+			<longitude>-69.21811602916596</longitude>
+			<latitude>7.552280356171164</latitude>
+			<altitude>81.61875494402184</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>873.2399751618507</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.21983655349257,7.552104538620358,83.52029010068144</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B07540E0E365A57EE5E">
+		<name>Torre 193</name>
+		<LookAt>
+			<longitude>-69.22180114754627</longitude>
+			<latitude>7.550142214848488</latitude>
+			<altitude>81.11502771329461</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1176.663305583643</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.22329127308339,7.550401132105516,82.62551402090958</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A3A52BE4E365A581789">
+		<name>Torre 192</name>
+		<LookAt>
+			<longitude>-69.22423327824143</longitude>
+			<latitude>7.549282285110351</latitude>
+			<altitude>83.62189976402136</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1174.15641643689</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.22622555597852,7.548833414516154,84.81320760266037</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BB3A4FD1D365A584582">
+		<name>Torre 191</name>
+		<LookAt>
+			<longitude>-69.22766335350961</longitude>
+			<latitude>7.547173412462878</latitude>
+			<altitude>82.95981571644182</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1174.818461385003</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.22896545383945,7.547475691028055,83.58370593645158</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09F0AD9FD6365A587157">
+		<name>Torre 190</name>
+		<LookAt>
+			<longitude>-69.22984910700059</longitude>
+			<latitude>7.546285993435866</latitude>
+			<altitude>84.95989373715419</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1172.818419981049</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.23183756980411,7.546021886074046,83.81741088943407</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02876E7709365A58BBD8">
+		<name>Torre 189</name>
+		<LookAt>
+			<longitude>-69.23271736700545</longitude>
+			<latitude>7.544662657871253</latitude>
+			<altitude>83.32861963815716</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1174.44965942399</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.23475086353837,7.544523720060346,83.18407154949608</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03EDCB8B09365A58EE30">
+		<name>Torre 188</name>
+		<LookAt>
+			<longitude>-69.23559473947326</longitude>
+			<latitude>7.54346829677756</latitude>
+			<altitude>80.72675715306954</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1177.05148401772</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.23780420109675,7.544364585097614,83.1347181619367</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="091DE4CFE2365A5927BE">
+		<name>Torre 187</name>
+		<LookAt>
+			<longitude>-69.23978573600391</longitude>
+			<latitude>7.5433646519912</latitude>
+			<altitude>82.17601525700276</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1175.602235084953</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.24143315204765,7.54423838732729,84.15474116045377</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05836662D8365A59560C">
+		<name>Torre 186</name>
+		<LookAt>
+			<longitude>-69.24342488589733</longitude>
+			<latitude>7.543065672178965</latitude>
+			<altitude>84.11161793253909</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1173.666720117617</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.2448025574931,7.544015163321977,84.72119763725351</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06AA48E2B1365A598053">
+		<name>Torre 185</name>
+		<LookAt>
+			<longitude>-69.24693245218437</longitude>
+			<latitude>7.542706064691559</latitude>
+			<altitude>82.2192505222413</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1175.559032039746</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.24816718878358,7.543883870501537,84.93739706465452</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0659CE4BFB365A59CA6E">
+		<name>Torre 184</name>
+		<LookAt>
+			<longitude>-69.25099928052691</longitude>
+			<latitude>7.542305244622329</latitude>
+			<altitude>82.31733370902884</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1618.323586631741</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.24985781422014,7.541911809069272,85.03281955668528</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0983587546365A5A112B">
+		<name>Torre 183</name>
+		<LookAt>
+			<longitude>-69.25138458950941</longitude>
+			<latitude>7.540957089174493</latitude>
+			<altitude>83.32419608495728</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1617.316751715553</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25140725490311,7.540181902831894,85.94991555005407</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08959099B6365A5AAA20">
+		<name>Torre 182</name>
+		<LookAt>
+			<longitude>-69.25309995075878</longitude>
+			<latitude>7.538036319740465</latitude>
+			<altitude>85.05352355419757</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1277.537317069218</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25321352912037,7.538175584244235,84.98654503960785</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CAE68F65E365A5AEF5E">
+		<name>Torre 181</name>
+		<LookAt>
+			<longitude>-69.25355762679696</longitude>
+			<latitude>7.53649919625885</latitude>
+			<altitude>84.25732938560358</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1062.484054119996</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25389998730265,7.535178472511486,86.29007476279385</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="007A254B37365A5CF703">
+		<name>Torre 180</name>
+		<LookAt>
+			<longitude>-69.25406860816193</longitude>
+			<latitude>7.532901279519331</latitude>
+			<altitude>85.07168871335145</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>57.77283762255138</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25400437299325,7.532883142579744,84.91715075541183</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06EF5DBE24365A5DE47C">
+		<name>Torre 179 Aprox</name>
+		<LookAt>
+			<longitude>-69.25472659367477</longitude>
+			<latitude>7.530266517420773</latitude>
+			<altitude>85.36819114089872</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>297.0392692765381</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25447478904245,7.530012056975106,85.07166970047697</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A8AE418A1365A5E9E9E">
+		<name>Torre 178</name>
+		<LookAt>
+			<longitude>-69.25543402920756</longitude>
+			<latitude>7.527263058043038</latitude>
+			<altitude>84.97932337694972</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>342.469612248824</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.2555509691497,7.527220973026988,85.0716585063642</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A83B49724365A5F4EE9">
+		<name>Torre 177</name>
+		<LookAt>
+			<longitude>-69.25606749209932</longitude>
+			<latitude>7.524632976496061</latitude>
+			<altitude>84.29269276202342</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>294.809306086936</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25604955160212,7.524565252721839,84.14448712680654</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0267332F65365A604518">
+		<name>Torre 176</name>
+		<LookAt>
+			<longitude>-69.25672914591321</longitude>
+			<latitude>7.522001609036235</latitude>
+			<altitude>85.05344997126112</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1420.788324120222</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25695516117167,7.521906049555763,85.06567346709144</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DD64A3568365A608389">
+		<name>Torre 175</name>
+		<LookAt>
+			<longitude>-69.25718092933165</longitude>
+			<latitude>7.519669911213397</latitude>
+			<altitude>82.3689766710695</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1423.47275367807</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.2576467732399,7.518795716089759,83.46148202089377</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01862C5DAE365A60B7E2">
+		<name>Torre 174</name>
+		<LookAt>
+			<longitude>-69.25762672543222</longitude>
+			<latitude>7.516255305951984</latitude>
+			<altitude>85.82532969084684</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1420.016417351144</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25839031310224,7.515764883084668,86.66236166628192</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04A69E7A1A365A610971">
+		<name>Torre 173</name>
+		<LookAt>
+			<longitude>-69.25789900247986</longitude>
+			<latitude>7.513054130244696</latitude>
+			<altitude>84.46116688675524</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1421.380558139063</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25827787702387,7.512385258595815,85.1490258734228</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0149C6A08F365A618299">
+		<name>Torre 172</name>
+		<LookAt>
+			<longitude>-69.25781584949782</longitude>
+			<latitude>7.508940995644969</latitude>
+			<altitude>82.75525487444179</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1018.771936121047</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25821033965774,7.508443864955489,85.64915561790663</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B7E97AE28365A61B09F">
+		<name>Torre 171</name>
+		<LookAt>
+			<longitude>-69.25783488324292</longitude>
+			<latitude>7.506997301290026</latitude>
+			<altitude>82.74287563572534</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1018.784266603907</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25810624054358,7.50605096870949,83.98465298131458</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F2BD1E770365A61E966">
+		<name>Torre 170</name>
+		<LookAt>
+			<longitude>-69.25778739814696</longitude>
+			<latitude>7.503380895303811</latitude>
+			<altitude>83.81761276683378</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1017.709567676793</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25801099388819,7.502171078377586,84.68081700516464</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="052FF07EA8365A621F9A">
+		<name>Torre 169</name>
+		<LookAt>
+			<longitude>-69.25754965490641</longitude>
+			<latitude>7.500104457022513</latitude>
+			<altitude>83.98149457788503</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1017.545655694121</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25805421509013,7.498964748159444,84.10842916792561</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09752998F3365A62A015">
+		<name>Torre 168</name>
+		<LookAt>
+			<longitude>-69.25813936629702</longitude>
+			<latitude>7.495913900112927</latitude>
+			<altitude>84.1078830867655</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>693.7636782570917</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25891769510991,7.495747606595401,84.85853085498341</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03582EAC68365A62CD4E">
+		<name>Torre 167</name>
+		<LookAt>
+			<longitude>-69.25876437999456</longitude>
+			<latitude>7.493939292472689</latitude>
+			<altitude>85.47271833407076</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>692.398888496391</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.25955465890576,7.493292237344541,85.58026137796789</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D77F1ACE4365A63046F">
+		<name>Torre 166</name>
+		<LookAt>
+			<longitude>-69.25924709167646</longitude>
+			<latitude>7.491312034293823</latitude>
+			<altitude>84.85764047245215</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>693.0139292730018</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26028729643528,7.490530479691008,83.05620371590706</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="005C81948C365A636320">
+		<name>Torre 165</name>
+		<LookAt>
+			<longitude>-69.25995758174673</longitude>
+			<latitude>7.488621876110183</latitude>
+			<altitude>84.35965834389748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1051.187106771249</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26120144318462,7.487118081437815,84.8798805319763</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06A286302E365A63F79B">
+		<name>Torre 164</name>
+		<LookAt>
+			<longitude>-69.26076472695861</longitude>
+			<latitude>7.48537144637478</latitude>
+			<altitude>83.17796256014529</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1052.368793497008</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26194912044127,7.484253176717552,85.07156315198891</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03C5539A39365A643C2F">
+		<name>Torre 163</name>
+		<LookAt>
+			<longitude>-69.26149692135883</longitude>
+			<latitude>7.482375532273671</latitude>
+			<altitude>85.65743838145011</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1049.889346627897</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26279747925919,7.48103981594519,86.50283772206147</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="012A1680CE365A64B7DD">
+		<name>Torre 162</name>
+		<LookAt>
+			<longitude>-69.2619293982609</longitude>
+			<latitude>7.479590550600422</latitude>
+			<altitude>83.81741087953154</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1051.72936988587</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26288474502293,7.478186807151174,82.92587659529768</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05E1255BC3365A64FEC7">
+		<name>Torre 161</name>
+		<LookAt>
+			<longitude>-69.26206242843901</longitude>
+			<latitude>7.47648363259282</latitude>
+			<altitude>83.52237200336319</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1052.024374370521</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.2629933631772,7.475523981570951,82.68070308491987</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05D864FC7A365A65283C">
+		<name>Torre 160</name>
+		<LookAt>
+			<longitude>-69.26231365182396</longitude>
+			<latitude>7.472835212082447</latitude>
+			<altitude>83.1355221759393</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1052.411254859035</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26308051314881,7.472720671767325,84.76785991794485</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05F372CBF8365A655589">
+		<name>Torre 159</name>
+		<LookAt>
+			<longitude>-69.26241702323092</longitude>
+			<latitude>7.470429079099022</latitude>
+			<altitude>83.29107570289091</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1052.255686812132</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26319547538634,7.469097886293428,82.38083994931954</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02E84FFFA7365A6590AD">
+		<name>Torre 158</name>
+		<LookAt>
+			<longitude>-69.26261429519201</longitude>
+			<latitude>7.46488765313213</latitude>
+			<altitude>82.14872202813071</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1053.398064329376</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26332878649964,7.465637615934545,82.24037992574671</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0501CE2A64365A687C0A">
+		<name>Torre 157</name>
+		<LookAt>
+			<longitude>-69.26268619207052</longitude>
+			<latitude>7.46371523512115</latitude>
+			<altitude>80.61605936543826</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1320.265036068158</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26344525780023,7.462121234445601,81.70424481900939</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01FDB81DAD365A691923">
+		<name>Torre 156</name>
+		<LookAt>
+			<longitude>-69.2634463030646</longitude>
+			<latitude>7.458772182513116</latitude>
+			<altitude>81.70518862007883</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>352.8169733518007</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26355357590316,7.458666635497588,81.7375606319227</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D3B2F8C20365A69C119">
+		<name>Torre 155</name>
+		<LookAt>
+			<longitude>-69.263348603873</longitude>
+			<latitude>7.456365143633939</latitude>
+			<altitude>82.58106574984069</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1090.310616359347</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26368559169242,7.455162748902771,81.435590397338</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07AC304266365A6ACDF0">
+		<name>Torre 154</name>
+		<LookAt>
+			<longitude>-69.26350899337181</longitude>
+			<latitude>7.451478777501276</latitude>
+			<altitude>82.90210710421871</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>810.030582450272</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26379701844027,7.452235972377599,82.80050217995091</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01B1BAB4DD365A6B283A">
+		<name>Torre 153</name>
+		<LookAt>
+			<longitude>-69.26353166897151</longitude>
+			<latitude>7.450968107095019</latitude>
+			<altitude>82.59316542008204</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>810.3394934945393</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26385760085478,7.449354080641353,82.7749465948289</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07CB3FAB4C365A6BB654">
+		<name>Torre 152 Aprox</name>
+		<LookAt>
+			<longitude>-69.26371735545074</longitude>
+			<latitude>7.447383592317413</latitude>
+			<altitude>81.04778469623525</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>811.884883109451</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26389545157035,7.446431111342183,82.90226848730801</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FCC1BFF3D365A6DEE46">
+		<name>Torre 153 Aprox</name>
+		<LookAt>
+			<longitude>-69.26321936563123</longitude>
+			<latitude>7.444704202443017</latitude>
+			<altitude>81.96319746313392</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1754.619181535672</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26398323955326,7.44324226636382,81.05440883970286</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FD18D83D8365A7048F3">
+		<name>Torre 151</name>
+		<LookAt>
+			<longitude>-69.26414116580685</longitude>
+			<latitude>7.437478556730957</latitude>
+			<altitude>80.69946697135012</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1110.330499582342</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26431765732498,7.436214901911241,81.34473898370069</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0736FBEF13365A70E402">
+		<name>Torre 152 aprox</name>
+		<LookAt>
+			<longitude>-69.26437681169963</longitude>
+			<latitude>7.437558494063791</latitude>
+			<altitude>80.80750672942222</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>3761.538213612512</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26406007992777,7.439992501681069,80.76399634902174</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="029DE9C246365A726F5E">
+		<name>Torre 150</name>
+		<LookAt>
+			<longitude>-69.26448208609806</longitude>
+			<latitude>7.433385485351375</latitude>
+			<altitude>79.77617850032603</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>750.1017471520754</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26508833415578,7.4329771868629,80.73862695709263</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0413629445365A72E24B">
+		<name>Torre 149</name>
+		<LookAt>
+			<longitude>-69.26487824728267</longitude>
+			<latitude>7.430385095100323</latitude>
+			<altitude>80.73864941180666</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>749.1392741610616</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.2658703171046,7.429615134287523,80.4725469946263</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C9CBA7058365A73750D">
+		<name>Torre 148 Aprox</name>
+		<LookAt>
+			<longitude>-69.26554302424668</longitude>
+			<latitude>7.427523350661163</latitude>
+			<altitude>82.43868705279156</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1019.800465270237</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26608703166245,7.426574591665806,82.36134946266709</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0926F8775C365A7416AE">
+		<name>Torre 147 Aprox</name>
+		<LookAt>
+			<longitude>-69.26473482680511</longitude>
+			<latitude>7.424216485239094</latitude>
+			<altitude>85.57528217351148</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>2531.356718582393</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26615696455278,7.423540753699072,83.39026035472654</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA3FF0820365A74D882">
+		<name>Torre 146 aprox</name>
+		<LookAt>
+			<longitude>-69.26518431754405</longitude>
+			<latitude>7.42174154364172</latitude>
+			<altitude>88.48283363884399</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>2528.449135097908</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26602611820536,7.420536445668739,82.26211718386384</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06492251CD365A755650">
+		<name>Torre 145</name>
+		<LookAt>
+			<longitude>-69.26573359230512</longitude>
+			<latitude>7.419330072332622</latitude>
+			<altitude>84.20464402857336</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>773.7463287837454</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26640738032692,7.41916662728776,83.52036291121985</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DB4D10718365A75AA17">
+		<name>Torre 144</name>
+		<LookAt>
+			<longitude>-69.26567203388885</longitude>
+			<latitude>7.415954763417524</latitude>
+			<altitude>82.99089024531159</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>774.9600469518192</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.2662227426441,7.415626023637585,83.39274049366428</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08950F2656365A75D32E">
+		<name>Torre 143</name>
+		<LookAt>
+			<longitude>-69.26566853216046</longitude>
+			<latitude>7.413460514262241</latitude>
+			<altitude>82.52084908200834</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>775.4300886668352</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26608572717699,7.412501789210625,82.3833277061389</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00814D8B8F365A7615F3">
+		<name>Torre 142</name>
+		<LookAt>
+			<longitude>-69.26551591905705</longitude>
+			<latitude>7.409060504181415</latitude>
+			<altitude>83.08321720371693</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>774.8678001063672</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26592164742812,7.409037153858194,83.48987482767295</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08EDC5C683365A774106">
+		<name>Torre 141 Aprox</name>
+		<LookAt>
+			<longitude>-69.26502245180203</longitude>
+			<latitude>7.407282262707728</latitude>
+			<altitude>82.94398991749031</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1125.089624013053</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26569628524206,7.406141603336555,82.9022289662757</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C92D14A85365A77BB64">
+		<name>Torre 140 Aprox</name>
+		<LookAt>
+			<longitude>-69.2649386199039</longitude>
+			<latitude>7.402315242876353</latitude>
+			<altitude>82.90629920255019</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1125.127357144811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26549137610552,7.403053938078396,82.56795449848119</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EDAC74C02365A792699">
+		<name>Torre 139</name>
+		<LookAt>
+			<longitude>-69.26557667834787</longitude>
+			<latitude>7.399124073806878</latitude>
+			<altitude>82.78257153413527</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>754.3434332557081</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26552372797633,7.398859775888234,82.43312160672166</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B31F62992365A797DAA">
+		<name>Torre 138</name>
+		<LookAt>
+			<longitude>-69.26546726792394</longitude>
+			<latitude>7.397281705178361</latitude>
+			<altitude>82.02371189181977</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>755.1022215035482</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26549198874359,7.396961258192369,82.10579695143184</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09BA5C1942365A7AF4BB">
+		<name>Torre 136</name>
+		<LookAt>
+			<longitude>-69.2682662319861</longitude>
+			<latitude>7.392452464203389</latitude>
+			<altitude>82.71029257956015</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>996.4970579011424</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26832675732027,7.391776057790659,83.81693098552604</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03DB09434B365A7B5478">
+		<name>Torre 137 Aprox</name>
+		<LookAt>
+			<longitude>-69.2655739414751</longitude>
+			<latitude>7.395652065013513</latitude>
+			<altitude>83.89780112528847</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>2694.139488613874</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.26645629214477,7.394808302292278,83.15775312088381</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ADCD9F435365A7BD707">
+		<name>Torre 135</name>
+		<LookAt>
+			<longitude>-69.26910105749126</longitude>
+			<latitude>7.389899020308446</latitude>
+			<altitude>82.8910716187962</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1169.399167813099</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.2696748321105,7.389224336969212,83.9918087171134</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05626F8E11365A7C0D07">
+		<name>Torre 134</name>
+		<LookAt>
+			<longitude>-69.269428818208</longitude>
+			<latitude>7.388441764008582</latitude>
+			<altitude>83.81710922273636</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>1168.47308365308</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.27114521252584,7.386547169881852,83.62652353806767</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D3E28EBBB365A7C7C87">
+		<name>Torre 133</name>
+		<LookAt>
+			<longitude>-69.2718956327606</longitude>
+			<latitude>7.38459691503532</latitude>
+			<altitude>83.8293515517808</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>731.2288306109986</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.27273593188249,7.383778826960228,84.75139204969544</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EFF47E1FE365A7CBFBD">
+		<name>Torre 132</name>
+		<LookAt>
+			<longitude>-69.2727692833477</longitude>
+			<latitude>7.381977055042613</latitude>
+			<altitude>86.08167664174434</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>728.9765242156136</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.27411700537927,7.381102371162224,85.58081778323201</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04F5A57851365A7D0353">
+		<name>Torre 131</name>
+		<LookAt>
+			<longitude>-69.2744758576092</longitude>
+			<latitude>7.378433680886955</latitude>
+			<altitude>85.55010959737011</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>729.5080792793306</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.27563639449656,7.378387980787648,85.2782280146984</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E767B4DBA365A7D3204">
+		<name>Torre 130</name>
+		<LookAt>
+			<longitude>-69.27584988800997</longitude>
+			<latitude>7.376535563035363</latitude>
+			<altitude>85.0656499570497</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>729.9925374611486</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.27709176112924,7.37569583576117,83.60834342325091</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00F478EDB0365A7DA27A">
+		<name>Torre 129 Aprox</name>
+		<LookAt>
+			<longitude>-69.27782975450378</longitude>
+			<latitude>7.374421312765785</latitude>
+			<altitude>85.30512714374639</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>971.0092081475887</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.27788417622838,7.372898858140521,86.79679452659663</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09D216ABAB365A7E0D48">
+		<name>Torre 128 Aprox</name>
+		<LookAt>
+			<longitude>-69.27841876734698</longitude>
+			<latitude>7.371495054420498</latitude>
+			<altitude>83.81744875674241</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>972.4968391848961</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.27872768263059,7.370127683977402,85.021144986873</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E01B9E4B8365A7E7BCC">
+		<name>Torre 127 Aprox</name>
+		<LookAt>
+			<longitude>-69.27910266173164</longitude>
+			<latitude>7.368847705463279</latitude>
+			<altitude>87.47014710453189</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000565316868</gx:fovy>
+			<range>968.8441422361941</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.27954548817296,7.367308366437504,90.19575032372703</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08FF3D5B70365A824294">
+		<name>Torre 126 Aprox</name>
+		<LookAt>
+			<longitude>-69.28326893856239</longitude>
+			<latitude>7.364539340809683</latitude>
+			<altitude>88.37220364399326</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2007.713189341302</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.28089846015277,7.364905641019437,92.74948839563676</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05B1BD2C54365A82CC61">
+		<name>Torre 125 Aprox</name>
+		<LookAt>
+			<longitude>-69.28326893873283</longitude>
+			<latitude>7.364539340894214</latitude>
+			<altitude>88.37220364399326</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2007.713189341302</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.28237225363416,7.362502751751975,84.61802113198186</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="059FAD2DFB365A83640F">
+		<name>Torre 124 Aprox</name>
+		<LookAt>
+			<longitude>-69.28520281738069</longitude>
+			<latitude>7.361372050478773</latitude>
+			<altitude>84.89759435180261</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1234.101290633844</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.28380953860849,7.361476525526154,84.06510010583966</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CEED4BF45365A83AA53">
+		<name>Torre 123</name>
+		<LookAt>
+			<longitude>-69.28520281738069</longitude>
+			<latitude>7.361372050478773</latitude>
+			<altitude>84.89759435180261</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1234.101290633844</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.28544719459777,7.360473286099794,85.55601386304861</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07621E16BE365A83DE6F">
+		<name>Torre 122</name>
+		<LookAt>
+			<longitude>-69.28625245767172</longitude>
+			<latitude>7.359343791868628</latitude>
+			<altitude>86.4645549300832</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1232.534392206726</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.2870644584052,7.357414390263529,89.47160642755063</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B434869C1365A8470B5">
+		<name>Torre 121 Aprox</name>
+		<LookAt>
+			<longitude>-69.28755333446362</longitude>
+			<latitude>7.355651583199963</latitude>
+			<altitude>88.09227993229995</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1230.906768469285</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.28865755878729,7.354687455705331,88.06158137736432</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="003604A120365A856956">
+		<name>Torre 120 Aprox</name>
+		<LookAt>
+			<longitude>-69.29386744563894</longitude>
+			<latitude>7.352443495556483</latitude>
+			<altitude>87.91448789344955</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7117.022686838172</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.28963873456473,7.351880399790955,90.29286961577928</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="039FC1C470365A85AF29">
+		<name>Torre 119 Aprox</name>
+		<LookAt>
+			<longitude>-69.29386744563939</longitude>
+			<latitude>7.352443495049804</latitude>
+			<altitude>87.91569527322322</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7117.021203471813</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.29057634357652,7.349004555421701,85.7034292162549</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06A5D8C4D8365A860BA5">
+		<name>Torre 118 Aprox</name>
+		<LookAt>
+			<longitude>-69.29386744563939</longitude>
+			<latitude>7.352443494542576</latitude>
+			<altitude>87.91569527605252</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7117.021203471815</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.29171255653368,7.346362186176961,85.67941272190698</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0962B5C46C365A86491B">
+		<name>Torre 117 Aprox</name>
+		<LookAt>
+			<longitude>-69.29386744563939</longitude>
+			<latitude>7.352443494542576</latitude>
+			<altitude>87.91569527605252</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7117.021203471815</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.29300549075057,7.343603198131103,85.66704167400476</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D5EA963FB365A868674">
+		<name>Torre 116 Aprox</name>
+		<LookAt>
+			<longitude>-69.29386744563939</longitude>
+			<latitude>7.352443494542576</latitude>
+			<altitude>87.91569527605252</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7117.021203471815</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.29449432404776,7.340883027949522,85.67106870408786</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BE0D76E15365A86E941">
+		<name>Torre 115 Aprox</name>
+		<LookAt>
+			<longitude>-69.29386744563939</longitude>
+			<latitude>7.352443494035342</latitude>
+			<altitude>87.91569527888181</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7117.021203471813</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.29574808597334,7.337890751430656,85.67637652429397</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00A15935DA365A873D64">
+		<name>Torre 114 Aprox</name>
+		<LookAt>
+			<longitude>-69.29864825358506</longitude>
+			<latitude>7.337324375368931</latitude>
+			<altitude>85.6762906905024</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7119.260344990762</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.29727769817035,7.334780467466622,89.29222127957703</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05627C03DA365A8774E0">
+		<name>Torre 113 Aprox</name>
+		<LookAt>
+			<longitude>-69.29864825358506</longitude>
+			<latitude>7.337324375368931</latitude>
+			<altitude>85.6762906905024</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7119.260344990762</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.29860910245243,7.331790931612003,90.60881652985701</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="062E037E1E365A885C32">
+		<name>Torre 112 Aprox</name>
+		<LookAt>
+			<longitude>-69.29966617575629</longitude>
+			<latitude>7.329558134780776</latitude>
+			<altitude>90.24840454717531</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7114.688609872246</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.30068409783476,7.327868980197776,90.59580474525568</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00744A7014365A88A79C">
+		<name>Torre 111 Aprox</name>
+		<LookAt>
+			<longitude>-69.2996661757563</longitude>
+			<latitude>7.329558135288006</latitude>
+			<altitude>90.248404544346</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7114.688609872246</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.3017020337149,7.32518958024599,90.53253294191222</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CD9C5E5DB365A88F65B">
+		<name>Torre 110 Aprox</name>
+		<LookAt>
+			<longitude>-69.2996661757563</longitude>
+			<latitude>7.329558135288006</latitude>
+			<altitude>90.248404544346</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7114.688609872246</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.30280075126149,7.32234910183133,84.87973295444073</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F4B2995F0365A8947E2">
+		<name>Torre 109 Aprox</name>
+		<LookAt>
+			<longitude>-69.2996661757563</longitude>
+			<latitude>7.329558135288006</latitude>
+			<altitude>90.248404544346</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7114.688609872246</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.30401544722537,7.319473074984062,84.80957823165672</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="054F2BD59D365A899735">
+		<name>Torre 108 aprox</name>
+		<LookAt>
+			<longitude>-69.30318969006868</longitude>
+			<latitude>7.317326247521326</latitude>
+			<altitude>84.83443990627563</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7120.102897082688</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.30510936802391,7.316646226009827,85.65754312626147</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07B4CFC874365A89EF20">
+		<name>Torre 107 Aprox</name>
+		<LookAt>
+			<longitude>-69.30318969006868</longitude>
+			<latitude>7.317326247521326</latitude>
+			<altitude>84.83443990627563</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7120.103638765868</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.3062408850047,7.313659671437236,96.37749608706686</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04F46F85AA365A8A250E">
+		<name>Torre 106 Aprox</name>
+		<LookAt>
+			<longitude>-69.30318969006868</longitude>
+			<latitude>7.317326247521326</latitude>
+			<altitude>84.83443990627563</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7120.103638765868</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.30725428644898,7.310910632564166,102.7642789535951</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01434B72B8365A8A5CBA">
+		<name>Torre 105 Aprox</name>
+		<LookAt>
+			<longitude>-69.30318969006868</longitude>
+			<latitude>7.317326247521326</latitude>
+			<altitude>84.83443990627563</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7120.103638765868</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.30839460635875,7.30771905159181,93.32142530662556</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00353745A1365A8AC139">
+		<name>Torre 104 Aprox</name>
+		<LookAt>
+			<longitude>-69.30683272405747</longitude>
+			<latitude>7.305164868997464</latitude>
+			<altitude>84.8387718807968</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7120.098446983611</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.30973181754392,7.30487341759911,85.49905361963334</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08DEBA0DA8365A8B0991">
+		<name>Torre 103 Aprox</name>
+		<LookAt>
+			<longitude>-69.30683272405747</longitude>
+			<latitude>7.305164868997464</latitude>
+			<altitude>84.8387718807968</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7120.098446983611</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.31126013884447,7.301958655863189,84.79759526849358</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CDC8D2ADA365A8B3E65">
+		<name>Torre 102 Aprox</name>
+		<LookAt>
+			<longitude>-69.30683272405747</longitude>
+			<latitude>7.305164868997464</latitude>
+			<altitude>84.8387718807968</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7120.098446983611</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.31278816239991,7.299860038639657,84.82794020518369</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B10ED0FCB365A8BACE6">
+		<name>Torre 101 Aprox</name>
+		<LookAt>
+			<longitude>-69.30683272405747</longitude>
+			<latitude>7.305164868997464</latitude>
+			<altitude>84.8387718807968</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7120.098446983611</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.31429641757667,7.296962116690984,88.65924268346853</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08A3CBF42D365A8C3B33">
+		<name>Torre 100 Aprox</name>
+		<LookAt>
+			<longitude>-69.31689447422036</longitude>
+			<latitude>7.298485139373422</latitude>
+			<altitude>90.55017800558244</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7114.387486501364</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.31638579168705,7.294273955537281,93.97256325758558</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09F20A9B97365A8C741D">
+		<name>Torre 99 Aprox</name>
+		<LookAt>
+			<longitude>-69.31689447422036</longitude>
+			<latitude>7.298485139373422</latitude>
+			<altitude>90.55017800558244</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7114.387486501364</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.31850085320967,7.29108169558537,84.7776821726079</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0817DC09D6365A8CCA9A">
+		<name>Torre 98 Aprox</name>
+		<LookAt>
+			<longitude>-69.31689447422036</longitude>
+			<latitude>7.298485139373422</latitude>
+			<altitude>90.55017800558244</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7114.387486501364</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.32014646064485,7.288788574260238,84.6876328731004</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="049C51712D365A8D41A8">
+		<name>Torre 97 Aprox</name>
+		<LookAt>
+			<longitude>-69.32405745947942</longitude>
+			<latitude>7.295010411821031</latitude>
+			<altitude>84.8968571785222</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>8651.449482673779</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.32879854453891,7.281421103512192,89.16930954357748</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="076EA2FD0D365A8D7B59">
+		<name>Torre 96 Aprox</name>
+		<LookAt>
+			<longitude>-69.32405745947942</longitude>
+			<latitude>7.295010411821031</latitude>
+			<altitude>84.8968571785222</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>8651.449482673779</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.3257713308449,7.28469212513056,84.56969344656095</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C23A2D9BB365A8DABAC">
+		<name>Torre 95 Aprox</name>
+		<LookAt>
+			<longitude>-69.32405745947942</longitude>
+			<latitude>7.295010411821031</latitude>
+			<altitude>84.8968571785222</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>8651.449482673779</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.33745687274903,7.275640744035115,84.54531156833679</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01277B5440365A8E0D6E">
+		<name>Torre 94 Aprox</name>
+		<LookAt>
+			<longitude>-69.32405745947942</longitude>
+			<latitude>7.295010411524783</latitude>
+			<altitude>84.89685718983938</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>8651.449482673779</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.33241927890401,7.27899965301774,84.53909047234437</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="089FAD8DD1365A8E5DDD">
+		<name>Torre 93 Aprox</name>
+		<LookAt>
+			<longitude>-69.32405745947942</longitude>
+			<latitude>7.295010411524783</latitude>
+			<altitude>84.89685718983938</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>8651.449482673779</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.34178609258026,7.273062859318481,84.53976676764562</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0641605CE3365A8EF6F6">
+		<name>Torre 92 Aprox</name>
+		<LookAt>
+			<longitude>-69.32443009816065</longitude>
+			<latitude>7.302665007520251</latitude>
+			<altitude>84.62897668411127</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>14295.01024766593</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0CC33DD2365B6ADCF5</styleUrl>
+		<Point>
+			<coordinates>-69.34667493097589,7.270579131776044,95.7217766091203</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05F09E3A27365A9A0BAD">
+		<name>Sub Estacion Electrica Elorza</name>
+		<LookAt>
+			<longitude>-69.5181180731991</longitude>
+			<latitude>7.060359657543408</latitude>
+			<altitude>90.67080968768444</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99998337086109</gx:fovy>
+			<range>1144.895717059553</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0427971EFC365B6ADCFF</styleUrl>
+		<Point>
+			<coordinates>-69.5180112480338,7.058679001412605,93.01838764484786</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
