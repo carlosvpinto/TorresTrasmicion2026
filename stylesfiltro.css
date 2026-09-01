@@ -247,8 +247,8 @@ h1, h2, .progress-details p {
        - Grados: 13% de 360 = 46.8 grados
     */
    background: conic-gradient(
-        #28a745 0% 13%,   /* Verde desde el 0% al 13% */
-        #e0e0e0 13% 100%  /* Gris desde el 13% hasta el 100% */
+        #28a745 0% 16%,   /* Verde desde el 0% al 13% */
+        #e0e0e0 16% 100%  /* Gris desde el 13% hasta el 100% */
     );
 }
 

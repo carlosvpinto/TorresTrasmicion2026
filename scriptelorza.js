@@ -93,7 +93,10 @@ document.addEventListener("DOMContentLoaded", () => {
         
 
 
-           
+              { src: "imagenes/elorza/torre52.jpeg", description: "Torre 52" , week: 2},
+            { src: "imagenes/elorza/torre52-a.jpeg", description: "Torre 52 Antes" , week: 2},
+            { src: "imagenes/elorza/torre59.jpeg", description: "Torre 59" , week: 2},
+          
             { src: "imagenes/elorza/torre53-a.jpeg", description: "Torre 53 Antes" , week: 2},
             { src: "imagenes/elorza/torre53.jpeg", description: "Torre 53" , week: 2},
             { src: "imagenes/elorza/torre54-a.jpeg", description: "Torre 54 Antes" , week: 2},
@@ -110,7 +113,14 @@ document.addEventListener("DOMContentLoaded", () => {
             { src: "imagenes/elorza/torre59-a.jpeg", description: "Torre 59 Antes" , week: 2},
             { src: "imagenes/elorza/torre59.jpeg", description: "Torre 59" , week: 2},
           
-       
+          { src: "imagenes/elorza/torre63.jpeg", description: "Torre 63" , week: 3 },
+            { src: "imagenes/elorza/torre63-a.jpeg", description: "Torre 63 Antes" , week: 3},
+            { src: "imagenes/elorza/torre68.jpeg", description: "Torre 68" , week: 3},
+               { src: "imagenes/elorza/torre68-a.jpeg", description: "Torre 68 Antes" , week: 2},
+            { src: "imagenes/elorza/torre69.jpeg", description: "Torre 69" , week: 2},
+            { src: "imagenes/elorza/torre69-a.jpeg", description: "Torre 69" , week: 2},
+          
+          
            
 
 
@@ -134,12 +144,9 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/elorza/tramo55-56.jpeg", description: "Vano 55-56", week: 2 },
         { src: "imagenes/elorza/tramo56-57.jpeg", description: "Vano 56-57", week: 2 },
         { src: "imagenes/elorza/tramo58-59.jpeg", description: "Vano 58-59", week: 2 },
-       
-
- 
- 
-    
-    
+        { src: "imagenes/elorza/tramo52-53.jpeg", description: "Vano 52-53", week: 3 },
+        { src: "imagenes/elorza/tramo68-69.jpeg", description: "Vano 68-69", week: 3 },
+     
     
     
         // Añade más fotos de tramos en mantenimiento según sea necesario

@@ -45,10 +45,12 @@ document.addEventListener("DOMContentLoaded", () => {
         
         // SEMANA 2
         { src: "imagenes/achaguas/achaguas13-2.jpeg", description: "Trabajos Torres Semana 2 ", week: 2 },
-        
+
         { src: "imagenes/achaguas/achaguas14-2.jpeg", description: "Trabajos Torres Semana 2 ", week: 2 },
         { src: "imagenes/achaguas/achaguas14-3.jpeg", description: "Trabajos Torres Semana 2 ", week: 2 },
-        { src: "imagenes/achaguas/achaguas15-3.jpeg", description: "Trabajos Torres Semana 2 ", week: 2 }
+        { src: "imagenes/achaguas/achaguas15-3.jpeg", description: "Trabajos Torres Semana 2 ", week: 2 },
+
+    
     ];
 
     // =========================================================
