@@ -26,29 +26,45 @@ document.addEventListener("DOMContentLoaded", () => {
     // =========================================================
     // FOTOS GENERALES: Tramo San Fernando II - Achaguas
     // =========================================================
-    const photos = [
-        // EJEMPLOS (Deberás reemplazar por los nombres de tus archivos reales)
-        { src: "imagenes/achaguas/torre1.jpeg", description: "Limpieza Torre 1 (Achaguas)", week: 1 },
-        { src: "imagenes/achaguas/torre2.jpeg", description: "Limpieza Torre 2 (Achaguas)", week: 1 },
-        // ... agrega las demás fotos aquí
+  const photos = [
+        // SEMANA 1
+        { src: "imagenes/achaguas/achaguas00-1.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas0-1.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas1-1.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas2-1.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas3-1.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas4-1.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas5-1.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas6-1.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas7-1.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas8-1.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas9-2.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas10-2.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas11-2.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        { src: "imagenes/achaguas/achaguas12-2.jpeg", description: "Trabajos Torres Semana 1 ", week: 1 },
+        
+        // SEMANA 2
+        { src: "imagenes/achaguas/achaguas13-2.jpeg", description: "Trabajos Torres Semana 2 ", week: 2 },
+        { src: "imagenes/achaguas/achaguas14-2.jpeg", description: "Trabajos Torres Semana 2 ", week: 2 },
+        { src: "imagenes/achaguas/achaguas14-3.jpeg", description: "Trabajos Torres Semana 2 ", week: 2 },
+        { src: "imagenes/achaguas/achaguas15-3.jpeg", description: "Trabajos Torres Semana 2 ", week: 2 }
     ];
 
     // =========================================================
     // FOTOS MANTENIMIENTO: Tramo San Fernando II - Achaguas
+    // (Dejar vacío o agregar cuando tengas fotos de mantenimiento)
     // =========================================================
     const maintenancePhotos = [
-        // EJEMPLOS
-        { src: "imagenes/achaguas/tramo1-2.jpeg", description: "Mantenimiento Tramo 1-2 (Achaguas)", week: 1 },
-        // ... agrega las demás fotos aquí
+        // { src: "imagenes/achaguas/tramo1-2.jpeg", description: "Mantenimiento Tramo 1-2 (Achaguas)", week: 1 },
     ];
 
     // =========================================================
     // VIDEOS: Tramo San Fernando II - Achaguas
+    // (Dejar vacío o agregar cuando tengas videos)
     // =========================================================
-    const videos = [
-        // EJEMPLOS
-        { src: "videos/achaguas/torre1.mp4", description: "Torre 1 Limpieza", week: 1 },
-        // ... agrega los demás videos aquí
+     const videos = [
+        { src: "videos/achaguas/achaguasvideo1-1.mp4", description: "Video Limpieza 1 (Achaguas)", week: 1 },
+        { src: "videos/achaguas/achaguasvideo2-1.mp4", description: "Video Limpieza 2 (Achaguas)", week: 1 }
     ];
 
     // Generar los botones de filtro dinámicamente
