@@ -266,6 +266,43 @@ h1, h2, .progress-details p {
     align-items: center;
 }
 
+/* ========================================= */
+/* Estilos para los botones de Reporte Excel */
+/* ========================================= */
+.btn-reporte {
+    display: inline-block;
+    padding: 12px 25px;
+    margin: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.btn-reporte:hover {
+    transform: scale(1.05); /* Efecto de zoom igual al de tus fotos y menú */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+/* Color para el botón de Ver Online (Verde) */
+.btn-online {
+    background-color: #28a745; 
+}
+.btn-online:hover {
+    background-color: #218838;
+}
+
+/* Color para el botón de Descargar (Azul) */
+.btn-descarga {
+    background-color: #007bff;
+}
+.btn-descarga:hover {
+    background-color: #0056b3;
+}
 /* Leyenda del gráfico */
 .leyenda-grafico {
     display: flex;

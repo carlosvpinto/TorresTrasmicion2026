@@ -113,12 +113,22 @@ document.addEventListener("DOMContentLoaded", () => {
             { src: "imagenes/elorza/torre59-a.jpeg", description: "Torre 59 Antes" , week: 2},
             { src: "imagenes/elorza/torre59.jpeg", description: "Torre 59" , week: 2},
           
-          { src: "imagenes/elorza/torre63.jpeg", description: "Torre 63" , week: 3 },
+            { src: "imagenes/elorza/torre63.jpeg", description: "Torre 63" , week: 3 },
             { src: "imagenes/elorza/torre63-a.jpeg", description: "Torre 63 Antes" , week: 3},
+
+             { src: "imagenes/elorza/torre67.jpeg", description: "Torre 68" , week: 3},
+            { src: "imagenes/elorza/torre67-a.jpeg", description: "Torre 68 Antes" , week: 3},
+            { src: "imagenes/elorza/torre68.jpeg", description: "Torre 69" , week: 3},
+            { src: "imagenes/elorza/torre68-a.jpeg", description: "Torre 69" , week: 3},
+            
+            { src: "imagenes/elorza/torre68-a.jpeg", description: "Torre 69" , week: 3},
             { src: "imagenes/elorza/torre68.jpeg", description: "Torre 68" , week: 3},
-               { src: "imagenes/elorza/torre68-a.jpeg", description: "Torre 68 Antes" , week: 2},
-            { src: "imagenes/elorza/torre69.jpeg", description: "Torre 69" , week: 2},
-            { src: "imagenes/elorza/torre69-a.jpeg", description: "Torre 69" , week: 2},
+            { src: "imagenes/elorza/torre68-a.jpeg", description: "Torre 68 Antes" , week: 3},
+            { src: "imagenes/elorza/torre69.jpeg", description: "Torre 69" , week: 3},
+            { src: "imagenes/elorza/torre69-a.jpeg", description: "Torre 69 Antes" , week: 3},
+            { src: "imagenes/elorza/torre70.jpeg", description: "Torre 70" , week: 3},
+            { src: "imagenes/elorza/torre70-a.jpeg", description: "Torre 70 Antes" , week: 3},
+            
           
           
            
@@ -145,7 +155,9 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/elorza/tramo56-57.jpeg", description: "Vano 56-57", week: 2 },
         { src: "imagenes/elorza/tramo58-59.jpeg", description: "Vano 58-59", week: 2 },
         { src: "imagenes/elorza/tramo52-53.jpeg", description: "Vano 52-53", week: 3 },
+        { src: "imagenes/elorza/tramo67-68.jpeg", description: "Vano 67-68", week: 3 },
         { src: "imagenes/elorza/tramo68-69.jpeg", description: "Vano 68-69", week: 3 },
+        { src: "imagenes/elorza/tramo69-70.jpeg", description: "Vano 69-70", week: 3 },
      
     
     
