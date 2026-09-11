@@ -50,6 +50,19 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/achaguas/achaguas14-3.jpeg", description: "Trabajos Torres Semana 2 ", week: 2 },
         { src: "imagenes/achaguas/achaguas15-3.jpeg", description: "Trabajos Torres Semana 2 ", week: 2 },
 
+        // SEMANA 3
+        { src: "imagenes/achaguas/torre39jpeg", description: "Trabajos Torres Semana 3 ", week: 3},
+
+        { src: "imagenes/achaguas/torre40.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+        { src: "imagenes/achaguas/torre41.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+        { src: "imagenes/achaguas/torre42.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+
+          { src: "imagenes/achaguas/tramo39-40.jpeg", description: "Trabajos Torres Semana 3 ", week: 3},
+
+        { src: "imagenes/achaguas/tramo40-41.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+        { src: "imagenes/achaguas/tramo41-42.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+        { src: "imagenes/achaguas/tramo42-43.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+
     
     ];
 
