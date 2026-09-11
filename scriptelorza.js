@@ -182,6 +182,14 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/elorza/tramo67-68.jpeg", description: "Vano 67-68", week: 3 },
         { src: "imagenes/elorza/tramo68-69.jpeg", description: "Vano 68-69", week: 3 },
         { src: "imagenes/elorza/tramo69-70.jpeg", description: "Vano 69-70", week: 3 },
+
+        //SEMANA 4
+        { src: "imagenes/elorza/tramo70-71.jpeg", description: "Vano 79-71", week: 4 },
+        { src: "imagenes/elorza/tramo73-74.jpeg", description: "Vano 73-74", week: 4 },
+        { src: "imagenes/elorza/tramo79-80.jpeg", description: "Vano 79-80", week: 4 },
+        { src: "imagenes/elorza/tramo80-81.jpeg", description: "Vano 80-81", week: 4 },
+        { src: "imagenes/elorza/tramo81-82.jpeg", description: "Vano 81-82", week: 4 },
+        { src: "imagenes/elorza/tramo83-84.jpeg", description: "Vano 83-84", week: 4 },
      
     
     
