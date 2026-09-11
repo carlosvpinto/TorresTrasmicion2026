@@ -128,7 +128,31 @@ document.addEventListener("DOMContentLoaded", () => {
             { src: "imagenes/elorza/torre69-a.jpeg", description: "Torre 69 Antes" , week: 3},
             { src: "imagenes/elorza/torre70.jpeg", description: "Torre 70" , week: 3},
             { src: "imagenes/elorza/torre70-a.jpeg", description: "Torre 70 Antes" , week: 3},
-            
+
+            // SEMANA 4
+            { src: "imagenes/elorza/torre71.jpeg", description: "Torre 71" , week: 4},
+            { src: "imagenes/elorza/torre71-a.jpeg", description: "Torre 71 Antes" , week: 4},
+            { src: "imagenes/elorza/torre72.jpeg", description: "Torre 72" , week: 4},
+            { src: "imagenes/elorza/torre72-a.jpeg", description: "Torre 72 Antes" , week: 4},
+            { src: "imagenes/elorza/torre73.jpeg", description: "Torre 73" , week: 4},
+            { src: "imagenes/elorza/torre73-a.jpeg", description: "Torre 73 Antes" , week: 4},
+           
+            { src: "imagenes/elorza/torre77.jpeg", description: "Torre 77" , week: 4},
+            { src: "imagenes/elorza/torre77-a.jpeg", description: "Torre 77 Antes" , week: 4},
+            { src: "imagenes/elorza/torre78.jpeg", description: "Torre 78" , week: 4},
+            { src: "imagenes/elorza/torre78-a.jpeg", description: "Torre 78 Antes" , week: 4},
+            { src: "imagenes/elorza/torre79.jpeg", description: "Torre 79" , week: 4},
+            { src: "imagenes/elorza/torre79-a.jpeg", description: "Torre 79 Antes" , week: 4},
+            { src: "imagenes/elorza/torre80.jpeg", description: "Torre 80" , week: 4},
+            { src: "imagenes/elorza/torre80-a.jpeg", description: "Torre 80 Antes" , week: 4},
+            { src: "imagenes/elorza/torre81.jpeg", description: "Torre 81" , week: 4},
+            { src: "imagenes/elorza/torre81-a.jpeg", description: "Torre 81 Antes" , week: 4},
+            { src: "imagenes/elorza/torre82.jpeg", description: "Torre 82" , week: 4},
+            { src: "imagenes/elorza/torre82-a.jpeg", description: "Torre 82 Antes" , week: 4},
+            { src: "imagenes/elorza/torre83.jpeg", description: "Torre 83" , week: 4},
+            { src: "imagenes/elorza/torre83-a.jpeg", description: "Torre 83 Antes" , week: 4},
+            { src: "imagenes/elorza/torre84.jpeg", description: "Torre 84" , week: 4},
+            { src: "imagenes/elorza/torre84-a.jpeg", description: "Torre 84 Antes" , week: 4},
           
           
            
