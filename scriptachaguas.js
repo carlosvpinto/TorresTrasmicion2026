@@ -58,11 +58,65 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/achaguas/torre42.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
 
           { src: "imagenes/achaguas/tramo39-40.jpeg", description: "Trabajos Torres Semana 3 ", week: 3},
-
         { src: "imagenes/achaguas/tramo40-41.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
         { src: "imagenes/achaguas/tramo41-42.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
         { src: "imagenes/achaguas/tramo42-43.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
 
+           { src: "imagenes/achaguas/torre39jpeg", description: "Trabajos Torres Semana 3 ", week: 3},
+
+        { src: "imagenes/achaguas/torre45.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+        { src: "imagenes/achaguas/torre45-a.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+        { src: "imagenes/achaguas/torre46.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+
+          { src: "imagenes/achaguas/torre46-a.jpeg", description: "Trabajos Torres Semana 3 ", week: 3},
+
+        { src: "imagenes/achaguas/torre47.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+        { src: "imagenes/achaguas/torre47-a.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+        { src: "imagenes/achaguas/torre48.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+
+        { src: "imagenes/achaguas/torre49.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+        { src: "imagenes/achaguas/torre49-a.jpeg", description: "Trabajos Torres Semana 3 ", week: 3 },
+        
+          { src: "imagenes/achaguas/tramo45-46.jpeg", description: "Vano 45-46", week: 3},
+       
+        { src: "imagenes/achaguas/tramo47-48d.jpeg", description: "Vano 47-48 Despues", week: 3 },
+        { src: "imagenes/achaguas/tramo47-48.jpeg", description: "Vano 47-48 antes", week: 3 },
+        { src: "imagenes/achaguas/tramo48-49.jpeg", description: "Vano 48-49", week: 3 },
+
+
+           //SEMANA 4
+            { src: "imagenes/achaguas/torre51.jpeg", description: "Torres 51 ", week: 4 },
+        { src: "imagenes/achaguas/torre51-a.jpeg", description: "Torres 51-a ", week: 4 },
+        { src: "imagenes/achaguas/torre52.jpeg", description: "Torres 52 ", week: 4 },
+
+          { src: "imagenes/achaguas/torre52-a.jpeg", description: "Torres 52 Antes ", week: 4},
+
+        { src: "imagenes/achaguas/torre53.jpeg", description: "Torree 53 ", week: 4 },
+        { src: "imagenes/achaguas/torre53-a.jpeg", description: "Torre 53 Antes ", week: 4 },
+        { src: "imagenes/achaguas/torre54.jpeg", description: "Torres 54 ", week: 4 },
+
+        { src: "imagenes/achaguas/torre54-a.jpeg", description: "Torre 54 Antes ", week: 4 },
+        { src: "imagenes/achaguas/torre55.jpeg", description: "Torre Semana 55 ", week: 4 },
+        { src: "imagenes/achaguas/torre55-a.jpeg", description: "Torre 55 Antes ", week: 4 },
+        //{ src: "imagenes/achaguas/torre56.jpeg", description: "Torree 56 ", week: 4 },
+       // { src: "imagenes/achaguas/torre56-a.jpeg", description: "Torre 56 Antes ", week: 4 },
+        //{ src: "imagenes/achaguas/torre57.jpeg", description: "Torres 57 ", week: 4 },
+
+       // { src: "imagenes/achaguas/torre57-a.jpeg", description: "Torre 57 Antes ", week: 4 },
+
+          
+        { src: "imagenes/achaguas/tramo44-45.jpeg", description: "Vano 44-45", week: 4 },
+        { src: "imagenes/achaguas/tramo45-46.jpeg", description: "Vano 45-46", week: 4 },
+        { src: "imagenes/achaguas/tramo47-48.jpeg", description: "Vano 47-48", week: 4 },
+        { src: "imagenes/achaguas/tramo48-49.jpeg", description: "Vano 48-49", week: 4 },
+        { src: "imagenes/achaguas/tramo49-50.jpeg", description: "Vano 49-50", week: 4 },
+       // { src: "imagenes/achaguas/tramo50-51.jpeg", description: "Vano 50-51", week: 4 },
+       // { src: "imagenes/achaguas/tramo51-52.jpeg", description: "Vano 51-52", week: 4 },
+        { src: "imagenes/achaguas/tramo53-54.jpeg", description: "Vano 53-54", week: 4 },
+        { src: "imagenes/achaguas/tramo55-56.jpeg", description: "Vano 55-56", week: 4 },
+        { src: "imagenes/achaguas/tramo57-58.jpeg", description: "Vano 57-58", week: 4 },
+ 
+     
     
     ];
 
