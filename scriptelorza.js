@@ -30,10 +30,10 @@ document.addEventListener("DOMContentLoaded", () => {
             { src: "imagenes/elorza/torre17.jpeg", description: "Limpieza Torre 17", week: 1 },
             { src: "imagenes/elorza/torre17-a.jpeg", description: "Torre 17 antes de la limpieza", week: 1 },
             { src: "imagenes/elorza/tramo17-18.jpeg", description: "Vano entre Torres 17 y 18", week: 1 },
-            { src: "imagenes/elorza/torre18-a.jpeg", description: "Limpieza Torre 4 Antes", week: 1 },
-            { src: "imagenes/elorza/torre18.jpeg", description: "Limpieza Torre 4", week: 1 },
+            { src: "imagenes/elorza/torre18-a.jpeg", description: "Limpieza Torre 18 Antes", week: 1 },
+            { src: "imagenes/elorza/torre18.jpeg", description: "Limpieza Torrre 18", week: 1 },
            
-            { src: "imagenes/elorza/tramo17-18.jpeg", description: "Vano entre Torres 17 y 18", week: 1 },
+            //{ src: "imagenes/elorza/tramo17-18.jpeg", description: "Vano entre Torres 17 y 18", week: 1 },
             { src: "imagenes/elorza/torre19-a.jpeg", description: "Torre 19 antes de la limpieza" , week: 1},
             { src: "imagenes/elorza/torre19.jpeg", description: "Limpieza Torre 19", week: 1 },
             { src: "imagenes/elorza/torre20.jpeg", description: "Limpieza Torre 20", week: 1 },
