@@ -170,12 +170,12 @@ document.addEventListener("DOMContentLoaded", () => {
           { src: "imagenes/elorza/torre95-a.jpeg", description: "Torre 95 Antes" , week: 5},
           { src: "imagenes/elorza/torre95.jpeg", description: "Torre 95" , week: 5},
 
-               { src: "imagenes/elorza/torre96-a.jpeg", description: "Torre 96 Antes" , week: 5},
+        { src: "imagenes/elorza/torre96-a.jpeg", description: "Torre 96 Antes" , week: 5},
           { src: "imagenes/elorza/torre96.jpeg", description: "Torre 96" , week: 5},
           { src: "imagenes/elorza/torre97-a.jpeg", description: "Torre 97 Antes" , week: 5},
           { src: "imagenes/elorza/torre97.jpeg", description: "Torre 97" , week: 5},
-          //{ src: "imagenes/elorza/torre98-a.jpeg", description: "Torre 98 Antes" , week: 5},
-          //{ src: "imagenes/elorza/torre98.jpeg", description: "Torre 98" , week: 5},
+          { src: "imagenes/elorza/torre98-a.jpeg", description: "Torre 98 Antes" , week: 5},
+          { src: "imagenes/elorza/torre98.jpeg", description: "Torre 98" , week: 5},
 
 
            
@@ -214,6 +214,7 @@ document.addEventListener("DOMContentLoaded", () => {
         //SEMANA 5
         { src: "imagenes/elorza/tramo86-87.jpeg", description: "Vano 86-87", week: 5 },
         { src: "imagenes/elorza/tramo96-97.jpeg", description: "Vano 96-97", week: 5 },
+        { src: "imagenes/elorza/tramo97-98.jpeg", description: "Vano 97-98", week: 5 },
      
     
     
