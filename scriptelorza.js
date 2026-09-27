@@ -177,7 +177,26 @@ document.addEventListener("DOMContentLoaded", () => {
           { src: "imagenes/elorza/torre98-a.jpeg", description: "Torre 98 Antes" , week: 5},
           { src: "imagenes/elorza/torre98.jpeg", description: "Torre 98" , week: 5},
 
-
+  // Agregadas automáticamente desde lo que se ve en tu captura de pantalla:
+          { src: "imagenes/elorza/torre100-a.jpeg", description: "Torre 100 Antes" , week: 5},
+          { src: "imagenes/elorza/torre100.jpeg", description: "Torre 100" , week: 5},
+          { src: "imagenes/elorza/torre101-a.jpeg", description: "Torre 101 Antes" , week: 5},
+          { src: "imagenes/elorza/torre101.jpeg", description: "Torre 101" , week: 5},
+          { src: "imagenes/elorza/torre102-a.jpeg", description: "Torre 102 Antes" , week: 5},
+          { src: "imagenes/elorza/torre102.jpeg", description: "Torre 102" , week: 5},
+          { src: "imagenes/elorza/torre103-a.jpeg", description: "Torre 103 Antes" , week: 5},
+          { src: "imagenes/elorza/torre103.jpeg", description: "Torre 103" , week: 5},
+          { src: "imagenes/elorza/torre104.jpeg", description: "Torre 104" , week: 5},
+          { src: "imagenes/elorza/torre105-a.jpeg", description: "Torre 105 Antes" , week: 5},
+          { src: "imagenes/elorza/torre105.jpeg", description: "Torre 105" , week: 5},
+          { src: "imagenes/elorza/torre106-a.jpeg", description: "Torre 106 Antes" , week: 5},
+          { src: "imagenes/elorza/torre106.jpeg", description: "Torre 106" , week: 5},
+          { src: "imagenes/elorza/torre107-a.jpeg", description: "Torre 107 Antes" , week: 5},
+          { src: "imagenes/elorza/torre107.jpeg", description: "Torre 107" , week: 5},
+          { src: "imagenes/elorza/torre108-a.jpeg", description: "Torre 108 Antes" , week: 5},
+          { src: "imagenes/elorza/torre108.jpeg", description: "Torre 108" , week: 5},
+          { src: "imagenes/elorza/torre109-a.jpeg", description: "Torre 109 Antes" , week: 5},
+          { src: "imagenes/elorza/torre109.jpeg", description: "Torre 109" , week: 5}
            
              
         ];
@@ -215,6 +234,8 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/elorza/tramo86-87.jpeg", description: "Vano 86-87", week: 5 },
         { src: "imagenes/elorza/tramo96-97.jpeg", description: "Vano 96-97", week: 5 },
         { src: "imagenes/elorza/tramo97-98.jpeg", description: "Vano 97-98", week: 5 },
+        { src: "imagenes/elorza/tramo99-100.jpeg", description: "Vano 99-100", week: 5 },
+        { src: "imagenes/elorza/tramo102-103.jpeg", description: "Vano 102-103", week: 5 },
      
     
     

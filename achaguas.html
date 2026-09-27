@@ -32,14 +32,43 @@
             </div>
         </section>
 
-       <section id="progress">
+       <!-- ====== SECCIÓN DE PROGRESO ====== -->
+        <section id="progress">
             <h2>Avance de Limpieza de Torres:</h2>
             <div class="progress-details">
-                <p><strong>Fecha de reporte:</strong> 18/09/2026</p> 
-                <p><strong>Torres atendidas:</strong> 51 / 196</p>
-                <p><strong>Total hectáreas aproximadas:</strong> 53.55 Has</p>
-                <p><strong>Porcentaje de avance:</strong> En progreso...</p>
+                <p><strong>Fecha de reporte:</strong> 26/09/2026</p> 
+                <p><strong>Torres atendidas:</strong> 65 / 196</p>
+                <p><strong>Total hectáreas aproximadas:</strong> 70 Has</p>
+                <p><strong>Porcentaje de avance:</strong> 33%</p>
             </div>
+        </section>
+
+        <!-- ====== SECCIÓN DEL GRÁFICO ====== -->
+        <section class="anuncio-y-grafico" style="justify-content: center;">
+            
+            <aside class="grafico-progreso" style="max-width: 400px; width: 100%;">
+                <h4>Progreso General Achaguas</h4>
+                <div class="grafico-circular-container">
+                    
+                    <!-- El estilo "conic-gradient" aquí asegura que marque el 33% exacto para Achaguas -->
+                    <div class="grafico-circular" style="background: conic-gradient(#28a745 0% 33%, #e0e0e0 33% 100%);" role="img" aria-label="Gráfico circular mostrando 33% de torres culminadas.">
+                        <span class="porcentaje">33%</span>
+                    </div>
+                    
+                </div>
+                
+                <div class="leyenda-grafico">
+                    <div class="leyenda-grafico-item">
+                        <span class="color-box culminadas"></span>
+                        <p>Culminadas: 65</p>
+                    </div>
+                    <div class="leyenda-grafico-item">
+                        <span class="color-box pendientes"></span>
+                        <p>Pendientes: 131</p>
+                    </div>
+                </div>
+            </aside>
+            
         </section>
          <!-- ===== INICIO DE BOTONES DE REPORTE GOOGLE SHEETS ===== -->
         <section id="reporte-tabla" style="text-align: center; margin: 30px auto; max-width: 800px; padding: 25px; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #e0e0e0; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">

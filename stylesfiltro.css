@@ -236,19 +236,15 @@ h1, h2, .progress-details p {
 .grafico-circular {
     width: 120px;
     height: 120px;
-    border-radius: 50%; /* Lo hace un círculo */
+    border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
     
-    /* 
-       Cálculo del gradiente cónico:
-       - Avance deseado: 13%
-       - Grados: 13% de 360 = 46.8 grados
-    */
-   background: conic-gradient(
-        #28a745 0% 24%,   /* Verde desde el 0% al 24% */
-        #e0e0e0 24% 100%  /* Gris desde el 24% hasta el 100% */
+    /* Actualizado al 29% de avance */
+    background: conic-gradient(
+        #28a745 0% 29%,   /* Verde desde el 0% al 29% */
+        #e0e0e0 29% 100%  /* Gris para el resto */
     );
 }
 
