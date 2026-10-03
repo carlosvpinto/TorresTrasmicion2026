@@ -196,7 +196,29 @@ document.addEventListener("DOMContentLoaded", () => {
           { src: "imagenes/elorza/torre108-a.jpeg", description: "Torre 108 Antes" , week: 5},
           { src: "imagenes/elorza/torre108.jpeg", description: "Torre 108" , week: 5},
           { src: "imagenes/elorza/torre109-a.jpeg", description: "Torre 109 Antes" , week: 5},
-          { src: "imagenes/elorza/torre109.jpeg", description: "Torre 109" , week: 5}
+          { src: "imagenes/elorza/torre109.jpeg", description: "Torre 109" , week: 5},
+
+           // Fotos de torres - ELORZA (Semana 6)
+       
+        { src: "imagenes/elorza/torre110-a.jpeg", description: "Torre 110 Antes", week: 6 },
+        { src: "imagenes/elorza/torre110.jpeg", description: "Torre 110", week: 6 },
+        { src: "imagenes/elorza/torre111-a.jpeg", description: "Torre 111 Antes", week: 6 },
+        { src: "imagenes/elorza/torre111.jpeg", description: "Torre 111", week: 6 },
+        { src: "imagenes/elorza/torre112-a.jpeg", description: "Torre 112 Antes", week: 6 },
+        { src: "imagenes/elorza/torre112.jpeg", description: "Torre 112", week: 6 },
+        { src: "imagenes/elorza/torre113-a.jpeg", description: "Torre 113 Antes", week: 6 },
+        { src: "imagenes/elorza/torre113.jpeg", description: "Torre 113", week: 6 },
+        { src: "imagenes/elorza/torre114-a.jpeg", description: "Torre 114 Antes", week: 6 },
+        { src: "imagenes/elorza/torre114.jpeg", description: "Torre 114", week: 6 },
+        { src: "imagenes/elorza/torre115-a.jpeg", description: "Torre 115 Antes", week: 6 },
+        { src: "imagenes/elorza/torre115.jpeg", description: "Torre 115", week: 6 },
+        { src: "imagenes/elorza/torre116-a.jpeg", description: "Torre 116 Antes", week: 6 },
+        { src: "imagenes/elorza/torre116.jpeg", description: "Torre 116", week: 6 },
+        { src: "imagenes/elorza/torre117-a.jpeg", description: "Torre 117 Antes", week: 6 },
+        { src: "imagenes/elorza/torre117.jpeg", description: "Torre 117", week: 6 },
+        { src: "imagenes/elorza/torre118-a.jpeg", description: "Torre 118 Antes", week: 6 },
+        { src: "imagenes/elorza/torre118.jpeg", description: "Torre 118", week: 6 },
+
            
              
         ];

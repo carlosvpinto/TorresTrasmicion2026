@@ -243,8 +243,8 @@ h1, h2, .progress-details p {
     
     /* Actualizado al 29% de avance */
     background: conic-gradient(
-        #28a745 0% 29%,   /* Verde desde el 0% al 29% */
-        #e0e0e0 29% 100%  /* Gris para el resto */
+        #28a745 0% 33%,   /* Verde desde el 0% al 29% */
+        #e0e0e0 33% 100%  /* Gris para el resto */
     );
 }
 
