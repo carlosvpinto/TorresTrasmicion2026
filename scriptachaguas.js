@@ -173,6 +173,42 @@ const photos = [
         { src: "imagenes/achaguas/tramo141-142.jpeg", description: "Vano 141-142", week: 6 },
         { src: "imagenes/achaguas/tramo142-143.jpeg", description: "Vano 142-143", week: 6 },
 
+        // Fotos añadidas a la SEMANA 7
+        { src: "imagenes/achaguas/torre91.jpeg", description: "Torre 91", week: 7 },
+        { src: "imagenes/achaguas/torre92-a.jpeg", description: "Torre 92 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre92.jpeg", description: "Torre 92", week: 7 },
+        { src: "imagenes/achaguas/torre93-a.jpeg", description: "Torre 93 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre93.jpeg", description: "Torre 93", week: 7 },
+        { src: "imagenes/achaguas/torre94-a.jpeg", description: "Torre 94 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre94.jpeg", description: "Torre 94", week: 7 },
+        { src: "imagenes/achaguas/torre95-a.jpeg", description: "Torre 95 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre95.jpeg", description: "Torre 95", week: 7 },
+        { src: "imagenes/achaguas/torre96-a.jpeg", description: "Torre 96 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre96.jpeg", description: "Torre 96", week: 7 },
+        { src: "imagenes/achaguas/torre97-a.jpeg", description: "Torre 97 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre97.jpeg", description: "Torre 97", week: 7 },
+        { src: "imagenes/achaguas/torre98-a.jpeg", description: "Torre 98 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre98.jpeg", description: "Torre 98", week: 7 },
+        { src: "imagenes/achaguas/torre99.jpeg", description: "Torre 99", week: 7 },
+        { src: "imagenes/achaguas/torre100-a.jpeg", description: "Torre 100 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre100.jpeg", description: "Torre 100", week: 7 },
+        { src: "imagenes/achaguas/torre101-a.jpeg", description: "Torre 101 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre101.jpeg", description: "Torre 101", week: 7 },
+        { src: "imagenes/achaguas/torre102-a.jpeg", description: "Torre 102 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre102.jpeg", description: "Torre 102", week: 7 },
+        { src: "imagenes/achaguas/torre103-a.jpeg", description: "Torre 103 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre103.jpeg", description: "Torre 103", week: 7 },
+        { src: "imagenes/achaguas/torre104-a.jpeg", description: "Torre 104 Antes", week: 7 },
+        { src: "imagenes/achaguas/torre104.jpeg", description: "Torre 104", week: 7 },
+        { src: "imagenes/achaguas/torre105.jpeg", description: "Torre 105", week: 7 },
+        { src: "imagenes/achaguas/torre106.jpeg", description: "Torre 106", week: 7 },
+
+        // Fotos de tramos - SEMANA 7
+        { src: "imagenes/achaguas/tramo92-93.jpeg", description: "Vano 92-93", week: 7 },
+        { src: "imagenes/achaguas/tramo93-94.jpeg", description: "Vano 93-94", week: 7 },
+        { src: "imagenes/achaguas/tramo101-102.jpeg", description: "Vano 101-102", week: 7 },
+        { src: "imagenes/achaguas/tramo102-103.jpeg", description: "Vano 102-103", week: 7 },
+
     { src: "imagenes/achaguas/tramo57-58.jpeg", description: "Vano 57-58", week: 5 },
     { src: "imagenes/achaguas/tramo64-65.jpeg", description: "Vano 64-65", week: 5 }
   ];
