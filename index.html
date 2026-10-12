@@ -3,62 +3,88 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SERVIELEC SERVICIOS C.A. - Proyecto de Mantenimiento de Torres</title>
+    <title>SERVIELEC SERVICIOS C.A. - Control de Vegetación 2026</title>
+    
+    <!-- Archivo de estilos externo -->
     <link rel="stylesheet" href="styles.css">
-    <!-- Opcional: Para una mejor tipografía, usando Google Fonts -->
+    
+    <!-- Fuentes modernas de Google (Poppins) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 </head>
 <body class="landing-page-v2">
 
-    <!-- Capa de superposición oscura para mejorar el contraste del texto -->
+    <!-- Capa de superposición oscura (Tu fondo actual) -->
     <div class="overlay"></div>
 
     <main class="landing-container">
         
         <header class="landing-header">
-            <!-- Se destaca el nombre exacto de la empresa desde el inicio -->
-            <p class="project-client"><strong>SERVIELEC SERVICIOS C.A.</strong> | Proyecto para Corpoelec</p>
-            <h1 class="landing-title">Mantenimiento y Limpieza de Transmisión 2026</h1>
+            <span class="badge">Proyecto Corpoelec</span>
+            <h1>Control de Vegetación en Líneas de Transmisión</h1>
+            <!-- La información de la empresa y tu cargo -->
+            <p class="company-subtitle">
+                Ejecutado por <strong>SERVIELEC SERVICIOS C.A.</strong><br>
+                <span class="rep-name">Representante Operativo: Ing. Carlos Pinto</span>
+            </p>
         </header>
 
-        <!-- Contenedor de los Proyectos/Tramos -->
-        <div class="proyectos-wrapper">
+        <!-- Contenedor Moderno en Cuadrícula (Grid) -->
+        <div class="proyectos-grid">
             
-            <!-- TRAMO 1: Elorza - Mantecal -->
-            <section class="project-details">
-                <h2 class="project-section-title">Tramo: Elorza - Mantecal</h2>
-                <!-- Jerarquía corregida: Empresa primero, representante después -->
-                <p class="project-rep">
-                    <strong>Empresa Ejecutora:</strong> SERVIELEC SERVICIOS C.A. <br>
-                    <small style="opacity: 0.85; font-size: 0.9em;">Representante: Ing. Carlos Pinto</small>
-                </p>
-                <a href="elorza-mantecal.html" class="cta-button">Ver Avance del Proyecto</a>
-            </section>
+            <!-- TARJETA 1: Elorza -->
+            <article class="project-card">
+                <h2>LT Elorza - Mantecal</h2>
+                
+                <div class="mini-grafico-container">
+                    <div class="grafico-circular mini" style="background: conic-gradient(#28a745 0% 29%, #e0e0e0 29% 100%);">
+                        <span class="porcentaje">29%</span>
+                    </div>
+                </div>
+                <p class="resumen-datos">Torres Atendidas: 62 / 212</p>
 
-            <!-- TRAMO 2: San Fernando II - Achaguas -->
-            <section class="project-details" style="margin-top: 30px;">
-                <h2 class="project-section-title">Tramo: San Fernando II - Achaguas</h2>
-                <!-- Jerarquía corregida: Empresa primero, representante después -->
-                <p class="project-rep">
-                    <strong>Empresa Ejecutora:</strong> SERVIELEC SERVICIOS C.A. <br>
-                    <small style="opacity: 0.85; font-size: 0.9em;">Representante: Ing. Carlos Pinto</small>
-                </p> 
-                <a href="achaguas.html" class="cta-button">Ver Avance del Proyecto</a>
-            </section>
+                <a href="elorza-mantecal.html" class="btn-moderno">Ver Reporte Completo</a>
+            </article>
+
+            <!-- TARJETA 2: Achaguas -->
+            <article class="project-card">
+                <h2>LT San Fernando II - Achaguas</h2>
+                
+                <div class="mini-grafico-container">
+                    <div class="grafico-circular mini" style="background: conic-gradient(#28a745 0% 33%, #e0e0e0 33% 100%);">
+                        <span class="porcentaje">33%</span>
+                    </div>
+                </div>
+                <p class="resumen-datos">Torres Atendidas: 65 / 196</p>
+
+                <a href="achaguas.html" class="btn-moderno">Ver Reporte Completo</a>
+            </article>
+
+           <!-- TARJETA 3: Guayabal -->
+            <article class="project-card">
+                <h2>LT San Fernando 1 - Guayabal</h2>
+                
+                <div class="mini-grafico-container">
+                    <!-- Actualizado al 5% -->
+                    <div class="grafico-circular mini" style="background: conic-gradient(#28a745 0% 5%, #e0e0e0 5% 100%);">
+                        <span class="porcentaje">5%</span>
+                    </div>
+                </div>
+                <!-- Actualizado a 5 de 96 -->
+                <p class="resumen-datos">Torres Atendidas: 5 / 96</p>
+
+                <a href="guayabal.html" class="btn-moderno">Ver Reporte Completo</a>
+            </article>
 
         </div>
 
         <footer class="landing-footer">
-            <p>Ejecutado por</p>
-            <!-- Si tienes un logo de la empresa en versión blanca/clara, úsalo aquí -->
-            <img src="imagenes/logoServielec.png" alt="Logo de SERVIELEC SERVICIOS C.A." class="company-logo">
+            <p style="margin-bottom: 5px; font-size: 0.9rem;">Una obra de:</p>
+            <img src="imagenes/logoServielec.png" alt="Logo de SERVIELEC SERVICIOS C.A." class="company-logo-modern">
         </footer>
 
     </main>
 
 </body>
-
-
 </html>

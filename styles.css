@@ -1,3 +1,6 @@
+/* ======================================================== */
+/* ESTILOS GENERALES (PARA LAS PÁGINAS INTERNAS Y GALERÍAS) */
+/* ======================================================== */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -13,12 +16,12 @@ header {
 }
 
 header h1 {
-    color: white; /* Asegúrate de que el color sea blanco */
-    transition: color 0.3s ease; /* Transición suave para el color */
+    color: white; 
+    transition: color 0.3s ease; 
 }
 
 header h1:hover {
-    color: #ffcc00; /* Color de hover */
+    color: #ffcc00; 
 }
 
 footer {
@@ -43,12 +46,12 @@ h1, h2 {
 
 .image-container img {
     width: 100%;
-    height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
-    transition: transform 0.3s ease; /* Transición suave para el tamaño */
+    height: auto; 
+    transition: transform 0.3s ease; 
 }
 
 .image-container img:hover {
-    transform: scale(1.05); /* Zoom al pasar el cursor */
+    transform: scale(1.05); 
 }
 
 /* Transiciones suaves */
@@ -75,11 +78,11 @@ h1, h2, .progress-details p {
     padding: 1rem;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    transition: box-shadow 0.3s ease; /* Transición suave para la sombra */
+    transition: box-shadow 0.3s ease; 
 }
 
 .progress-details:hover {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra más intensa al pasar el cursor */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
 
 .progress-details p {
@@ -93,12 +96,12 @@ h1, h2, .progress-details p {
     margin-bottom: 2rem;
 }
 
-/* Animaciones */
+/* Animaciones de Galería */
 .photo-gallery, .maintenance-gallery, .video-gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Ajusta el tamaño mínimo según sea necesario */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
     gap: 1rem;
-    transition: all 0.3s ease; /* Transición suave */
+    transition: all 0.3s ease; 
 }
 
 .photo-gallery .photo-item, .maintenance-gallery .maintenance-item, .video-gallery .video-item {
@@ -107,17 +110,17 @@ h1, h2, .progress-details p {
     background-color: #f9f9f9;
     text-align: center;
     animation: fadeIn 1s ease-in-out;
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Transición suave para el tamaño y la sombra */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }
 
 .photo-gallery .photo-item:hover, .maintenance-gallery .maintenance-item:hover, .video-gallery .video-item:hover {
-    transform: scale(1.05); /* Zoom al pasar el cursor */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra más intensa al pasar el cursor */
+    transform: scale(1.05); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
 
 .photo-gallery img, .maintenance-gallery img {
     width: 100%;
-    height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+    height: auto; 
     margin-bottom: 0.5rem;
 }
 
@@ -128,6 +131,7 @@ h1, h2, .progress-details p {
 .video-gallery video {
     width: 100%;
 }
+
 /* Estilo del menú */
 .menu {
     list-style: none;
@@ -138,118 +142,6 @@ h1, h2, .progress-details p {
     margin: 10px 0;
     background-color: #6b6b6b;
     border-radius: 5px;
-}
-/* ===== ESTILOS PARA LA LANDING PAGE V2 (DISEÑO VISUAL) ===== */
-
-/* Estilo general del body */
-body.landing-page-v2 {
-    font-family: 'Roboto', sans-serif; /* Nueva fuente más moderna */
-    margin: 0;
-    color: #ffffff; /* Texto blanco por defecto */
-    background-image: url('imagenes/fondo-torre.jpg'); /* <<<< TU IMAGEN DE FONDO AQUÍ */
-    background-size: cover; /* Cubre toda la pantalla */
-    background-position: center;
-    background-attachment: fixed; /* Mantiene la imagen fija al hacer scroll */
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    text-align: center;
-    padding: 20px;
-    box-sizing: border-box;
-}
-
-/* Capa oscura semitransparente sobre la imagen de fondo */
-.overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(10, 25, 47, 0.7); /* Un azul muy oscuro y semitransparente */
-    z-index: 1;
-}
-
-/* Contenedor principal que se posiciona sobre la capa de superposición */
-.landing-container {
-    position: relative;
-    z-index: 2;
-    max-width: 700px;
-}
-
-.project-client {
-    font-size: 1rem;
-    color: #cdd6f4; /* Un color de texto secundario claro */
-    margin-bottom: 5px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-
-.landing-title {
-    font-size: 3rem;
-    font-weight: 700;
-    margin: 0 0 40px 0;
-    line-height: 1.2;
-    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); /* Sombra para resaltar el texto */
-}
-
-.project-section-title {
-    font-size: 1.8rem;
-    font-weight: 400;
-    margin-bottom: 10px;
-    border-bottom: 2px solid #007bff; /* Línea de acento azul */
-    display: inline-block;
-    padding-bottom: 5px;
-}
-
-.project-rep {
-    font-size: 1.1rem;
-    margin-bottom: 30px;
-}
-
-/* Botón de Llamada a la Acción (CTA) */
-.cta-button {
-    display: inline-block;
-    background-color: #007bff;
-    color: white;
-    padding: 15px 35px;
-    text-decoration: none;
-    font-size: 1.1rem;
-    font-weight: bold;
-    border-radius: 50px; /* Bordes completamente redondeados */
-    border: 2px solid #007bff;
-    transition: all 0.3s ease;
-}
-
-.cta-button:hover {
-    background-color: transparent; /* Fondo transparente al pasar el cursor */
-    color: #ffffff;
-    border-color: #ffffff; /* Borde blanco */
-    transform: scale(1.05);
-}
-
-/* Pie de página */
-.landing-footer {
-    margin-top: 50px;
-    font-size: 0.9rem;
-    color: #a6b1e1;
-}
-
-.company-logo {
-    max-width: 120px;
-    margin-top: 10px;
-    opacity: 0.8;
-}
-
-/* Media Query para pantallas pequeñas (móviles) */
-@media (max-width: 600px) {
-    .landing-title {
-        font-size: 2.2rem;
-    }
-    .project-section-title {
-        font-size: 1.5rem;
-    }
 }
 
 .menu li {
@@ -267,15 +159,228 @@ body.landing-page-v2 {
 
 .menu a:hover {
     background-color: #272727;
-    transform: scale(1.05); /* Efecto de agrandamiento al pasar el mouse */
+    transform: scale(1.05); 
 }
 
-/* Keyframes para la animación de fade-in */
 @keyframes fadeIn {
-    from {
-        opacity: 0;
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* ======================================================== */
+/* NUEVOS ESTILOS PARA LA PÁGINA PRINCIPAL (INDEX MODERNO)  */
+/* ======================================================== */
+
+/* Estilo general del body (Incluye tu imagen de fondo original) */
+body.landing-page-v2 {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    color: #ffffff; 
+    background-image: url('imagenes/fondo-torre.jpg'); /* Tu imagen de fondo respetada */
+    background-size: cover; 
+    background-position: center;
+    background-attachment: fixed; 
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(10, 25, 47, 0.75); /* Filtro azul oscuro */
+    z-index: 1;
+}
+
+.landing-container {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 40px 15px; 
+}
+
+.landing-header {
+    text-align: center;
+    margin-bottom: 30px;
+    color: white;
+    width: 100%;
+}
+
+.badge {
+    background-color: #ffcc00;
+    color: #333;
+    padding: 6px 16px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline-block;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.landing-header h1 {
+    font-size: 1.8rem; 
+    font-weight: 700;
+    margin: 0 0 10px 0;
+    line-height: 1.2;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.5);
+}
+
+.company-subtitle {
+    font-size: 1rem; 
+    font-weight: 300;
+    line-height: 1.5;
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+    margin: 0;
+}
+
+.rep-name {
+    font-size: 0.9rem;
+    opacity: 0.9;
+    display: block;
+    margin-top: 5px;
+}
+
+/* ======================================================== */
+/* TARJETAS (CARDS) Y MINI GRÁFICOS                         */
+/* ======================================================== */
+
+.proyectos-grid {
+    display: grid;
+    grid-template-columns: 1fr; 
+    gap: 20px;
+    width: 100%;
+    max-width: 1100px;
+    margin-bottom: 40px;
+}
+
+.project-card {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 12px;
+    padding: 30px 20px;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(5px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card h2 {
+    color: #004a99;
+    font-size: 1.3rem;
+    margin: 0 0 15px 0;
+    font-weight: 600;
+    text-shadow: none;
+}
+
+/* Gráfico en versión pequeña para las tarjetas */
+.mini-grafico-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.grafico-circular.mini {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grafico-circular.mini .porcentaje {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #333;
+    background-color: white; 
+    width: 75%;
+    height: 75%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.resumen-datos {
+    font-size: 0.95rem;
+    color: #555;
+    margin: 0 0 20px 0;
+    font-weight: 600;
+    text-shadow: none;
+}
+
+/* ======================================================== */
+/* BOTONES MODERNOS Y FOOTER DEL INDEX                      */
+/* ======================================================== */
+
+.btn-moderno {
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px; 
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1rem;
+    width: 100%; 
+    box-shadow: 0 4px 15px rgba(0, 123, 255, 0.3);
+    transition: all 0.3s ease;
+    box-sizing: border-box; /* Evita que el padding desborde el ancho */
+}
+
+.btn-moderno:hover, .btn-moderno:active {
+    background: linear-gradient(135deg, #0056b3, #003d82);
+    box-shadow: 0 6px 20px rgba(0, 123, 255, 0.5);
+    transform: scale(1.02);
+    color: white;
+}
+
+.landing-footer {
+    text-align: center;
+    color: white;
+    opacity: 0.9;
+    width: 100%;
+}
+
+.company-logo-modern {
+    max-width: 120px; 
+    margin-top: 8px;
+    filter: drop-shadow(0px 4px 6px rgba(0,0,0,0.5));
+}
+
+/* ======================================================== */
+/* MEDIA QUERIES (TABLETS Y PC) PARA EL INDEX               */
+/* ======================================================== */
+@media (min-width: 768px) {
+    .landing-header h1 { font-size: 2.2rem; }
+    .company-subtitle { font-size: 1.1rem; }
+    .proyectos-grid {
+        grid-template-columns: repeat(2, 1fr); 
+        gap: 25px;
     }
-    to {
-        opacity: 1;
+    .company-logo-modern { max-width: 150px; }
+}
+
+@media (min-width: 1024px) {
+    .landing-header h1 { font-size: 2.8rem; margin-bottom: 15px; }
+    .proyectos-grid {
+        grid-template-columns: repeat(3, 1fr); 
+        gap: 30px;
     }
+    .project-card { padding: 35px 25px; }
+    .project-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+    }
+    .btn-moderno { width: 80%; }
 }
