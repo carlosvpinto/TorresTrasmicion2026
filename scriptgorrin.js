@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // =========================================================
     const photos = [
         // SEMANA 1
-        { src: "imagenes/Gorrin/Foto1.jpeg", description: "Foto Principal", week: 1 },
+        
         { src: "imagenes/Gorrin/torre10.jpeg", description: "Torre 10", week: 1 },
         { src: "imagenes/Gorrin/torre13-a.jpeg", description: "Torre 13 Antes", week: 1 },
         { src: "imagenes/Gorrin/torre14.jpeg", description: "Torre 14", week: 1 },
