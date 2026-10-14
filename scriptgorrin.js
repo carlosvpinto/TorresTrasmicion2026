@@ -32,21 +32,21 @@ document.addEventListener("DOMContentLoaded", () => {
     const photos = [
         // SEMANA 1
         
-        { src: "imagenes/Gorrin/torre10.jpeg", description: "Torre 10", week: 1 },
-        { src: "imagenes/Gorrin/torre13-a.jpeg", description: "Torre 13 Antes", week: 1 },
-        { src: "imagenes/Gorrin/torre14.jpeg", description: "Torre 14", week: 1 },
-        { src: "imagenes/Gorrin/torre15.jpeg", description: "Torre 15", week: 1 },
-        { src: "imagenes/Gorrin/torre17.jpeg", description: "Torre 17", week: 1 },
-        { src: "imagenes/Gorrin/torre24-a.jpeg", description: "Torre 24 Antes", week: 1 },
-        { src: "imagenes/Gorrin/torre24.jpeg", description: "Torre 24", week: 1 },
-        { src: "imagenes/Gorrin/torre25-a.jpeg", description: "Torre 25 Antes", week: 1 },
-        { src: "imagenes/Gorrin/torre25.jpeg", description: "Torre 25", week: 1 },
-        { src: "imagenes/Gorrin/torre26-a.jpeg", description: "Torre 26 Antes", week: 1 },
-        { src: "imagenes/Gorrin/torre26.jpeg", description: "Torre 26", week: 1 },
-        { src: "imagenes/Gorrin/torre27-a.jpeg", description: "Torre 27 Antes", week: 1 },
-        { src: "imagenes/Gorrin/torre27.jpeg", description: "Torre 27", week: 1 },
-        { src: "imagenes/Gorrin/torre29-a.jpeg", description: "Torre 29 Antes", week: 1 },
-        { src: "imagenes/Gorrin/torre29.jpeg", description: "Torre 29", week: 1 }
+        { src: "imagenes/gorrin/torre10.jpeg", description: "Torre 10", week: 1 },
+        { src: "imagenes/gorrin/torre13-a.jpeg", description: "Torre 13 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre14.jpeg", description: "Torre 14", week: 1 },
+        { src: "imagenes/gorrin/torre15.jpeg", description: "Torre 15", week: 1 },
+        { src: "imagenes/gorrin/torre17.jpeg", description: "Torre 17", week: 1 },
+        { src: "imagenes/gorrin/torre24-a.jpeg", description: "Torre 24 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre24.jpeg", description: "Torre 24", week: 1 },
+        { src: "imagenes/gorrin/torre25-a.jpeg", description: "Torre 25 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre25.jpeg", description: "Torre 25", week: 1 },
+        { src: "imagenes/gorrin/torre26-a.jpeg", description: "Torre 26 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre26.jpeg", description: "Torre 26", week: 1 },
+        { src: "imagenes/gorrin/torre27-a.jpeg", description: "Torre 27 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre27.jpeg", description: "Torre 27", week: 1 },
+        { src: "imagenes/gorrin/torre29-a.jpeg", description: "Torre 29 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre29.jpeg", description: "Torre 29", week: 1 }
     ];
 
     // =========================================================
