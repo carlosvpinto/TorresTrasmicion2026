@@ -24,40 +24,40 @@ document.addEventListener("DOMContentLoaded", () => {
     fullscreenContainer.appendChild(fullscreenImg);
     
     // =========================================================
-    // FOTOS GENERALES: Tramo LT San Fernando 1 - Guayabal
+    // FOTOS GENERALES: Tramo LT San Fernando 1 - Gorrin
     // =========================================================
 // =========================================================
-    // FOTOS GENERALES: Tramo LT San Fernando 1 - Guayabal
+    // FOTOS GENERALES: Tramo LT San Fernando 1 - Gorrin
     // =========================================================
     const photos = [
         // SEMANA 1
-        { src: "imagenes/guayabal/Foto1.jpeg", description: "Foto Principal", week: 1 },
-        { src: "imagenes/guayabal/torre10.jpeg", description: "Torre 10", week: 1 },
-        { src: "imagenes/guayabal/torre13-a.jpeg", description: "Torre 13 Antes", week: 1 },
-        { src: "imagenes/guayabal/torre14.jpeg", description: "Torre 14", week: 1 },
-        { src: "imagenes/guayabal/torre15.jpeg", description: "Torre 15", week: 1 },
-        { src: "imagenes/guayabal/torre17.jpeg", description: "Torre 17", week: 1 },
-        { src: "imagenes/guayabal/torre24-a.jpeg", description: "Torre 24 Antes", week: 1 },
-        { src: "imagenes/guayabal/torre24.jpeg", description: "Torre 24", week: 1 },
-        { src: "imagenes/guayabal/torre25-a.jpeg", description: "Torre 25 Antes", week: 1 },
-        { src: "imagenes/guayabal/torre25.jpeg", description: "Torre 25", week: 1 },
-        { src: "imagenes/guayabal/torre26-a.jpeg", description: "Torre 26 Antes", week: 1 },
-        { src: "imagenes/guayabal/torre26.jpeg", description: "Torre 26", week: 1 },
-        { src: "imagenes/guayabal/torre27-a.jpeg", description: "Torre 27 Antes", week: 1 },
-        { src: "imagenes/guayabal/torre27.jpeg", description: "Torre 27", week: 1 },
-        { src: "imagenes/guayabal/torre29-a.jpeg", description: "Torre 29 Antes", week: 1 },
-        { src: "imagenes/guayabal/torre29.jpeg", description: "Torre 29", week: 1 }
+        { src: "imagenes/Gorrin/Foto1.jpeg", description: "Foto Principal", week: 1 },
+        { src: "imagenes/Gorrin/torre10.jpeg", description: "Torre 10", week: 1 },
+        { src: "imagenes/Gorrin/torre13-a.jpeg", description: "Torre 13 Antes", week: 1 },
+        { src: "imagenes/Gorrin/torre14.jpeg", description: "Torre 14", week: 1 },
+        { src: "imagenes/Gorrin/torre15.jpeg", description: "Torre 15", week: 1 },
+        { src: "imagenes/Gorrin/torre17.jpeg", description: "Torre 17", week: 1 },
+        { src: "imagenes/Gorrin/torre24-a.jpeg", description: "Torre 24 Antes", week: 1 },
+        { src: "imagenes/Gorrin/torre24.jpeg", description: "Torre 24", week: 1 },
+        { src: "imagenes/Gorrin/torre25-a.jpeg", description: "Torre 25 Antes", week: 1 },
+        { src: "imagenes/Gorrin/torre25.jpeg", description: "Torre 25", week: 1 },
+        { src: "imagenes/Gorrin/torre26-a.jpeg", description: "Torre 26 Antes", week: 1 },
+        { src: "imagenes/Gorrin/torre26.jpeg", description: "Torre 26", week: 1 },
+        { src: "imagenes/Gorrin/torre27-a.jpeg", description: "Torre 27 Antes", week: 1 },
+        { src: "imagenes/Gorrin/torre27.jpeg", description: "Torre 27", week: 1 },
+        { src: "imagenes/Gorrin/torre29-a.jpeg", description: "Torre 29 Antes", week: 1 },
+        { src: "imagenes/Gorrin/torre29.jpeg", description: "Torre 29", week: 1 }
     ];
 
     // =========================================================
-    // FOTOS MANTENIMIENTO: Tramo LT San Fernando 1 - Guayabal
+    // FOTOS MANTENIMIENTO: Tramo LT San Fernando 1 - Gorrin
     // =========================================================
     const maintenancePhotos = [
         // Vacío por ahora, agrega aquí si hay fotos de tramos o vanos
     ];
 
     // =========================================================
-    // VIDEOS: Tramo LT San Fernando 1 - Guayabal
+    // VIDEOS: Tramo LT San Fernando 1 - Gorrin
     // =========================================================
     const videos = [
         // Vacío por ahora, agrega aquí los mp4 si tienes
