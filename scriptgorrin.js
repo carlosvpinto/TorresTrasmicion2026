@@ -29,9 +29,27 @@ document.addEventListener("DOMContentLoaded", () => {
 // =========================================================
     // FOTOS GENERALES: Tramo LT San Fernando 1 - Gorrin
     // =========================================================
-    const photos = [
+ const photos = [
         // SEMANA 1
         
+        { src: "imagenes/gorrin/foto1.jpeg", description: "Foto 1", week: 1 },
+        { src: "imagenes/gorrin/torre1.jpeg", description: "Torre 1", week: 1 },
+        { src: "imagenes/gorrin/torre2-a.jpeg", description: "Torre 2 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre2.jpeg", description: "Torre 2", week: 1 },
+        { src: "imagenes/gorrin/torre3-a.jpeg", description: "Torre 3 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre4-a.jpeg", description: "Torre 4 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre4.jpeg", description: "Torre 4", week: 1 },
+        { src: "imagenes/gorrin/torre5-a.jpeg", description: "Torre 5 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre5.jpeg", description: "Torre 5", week: 1 },
+        { src: "imagenes/gorrin/torre6-a.jpeg", description: "Torre 6 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre6.jpeg", description: "Torre 6", week: 1 },
+        { src: "imagenes/gorrin/torre7-a.jpeg", description: "Torre 7 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre7.jpeg", description: "Torre 7", week: 1 },
+        { src: "imagenes/gorrin/torre8-a.jpeg", description: "Torre 8 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre8.jpeg", description: "Torre 8", week: 1 },
+        { src: "imagenes/gorrin/torre9-a.jpeg", description: "Torre 9 Antes", week: 1 },
+        { src: "imagenes/gorrin/torre9.jpeg", description: "Torre 9", week: 1 },
+        { src: "imagenes/gorrin/torre10-a.jpeg", description: "Torre 10 Antes", week: 1 },
         { src: "imagenes/gorrin/torre10.jpeg", description: "Torre 10", week: 1 },
         { src: "imagenes/gorrin/torre13-a.jpeg", description: "Torre 13 Antes", week: 1 },
         { src: "imagenes/gorrin/torre14.jpeg", description: "Torre 14", week: 1 },
@@ -53,8 +71,12 @@ document.addEventListener("DOMContentLoaded", () => {
     // FOTOS MANTENIMIENTO: Tramo LT San Fernando 1 - Gorrin
     // =========================================================
     const maintenancePhotos = [
-        // Vacío por ahora, agrega aquí si hay fotos de tramos o vanos
+        { src: "imagenes/gorrin/tramo6-7.jpeg", description: "Tramo 6 - 7", week: 1 },
+        { src: "imagenes/gorrin/tramo7-8.jpeg", description: "Tramo 7 - 8", week: 1 },
+        { src: "imagenes/gorrin/tramo8-9.jpeg", description: "Tramo 8 - 9", week: 1 },
+        { src: "imagenes/gorrin/tramo9-10.jpeg", description: "Tramo 9 - 10", week: 1 }
     ];
+
 
     // =========================================================
     // VIDEOS: Tramo LT San Fernando 1 - Gorrin

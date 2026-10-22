@@ -245,6 +245,16 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/elorza/torre128.jpeg", description: "Torre 128", week: 8 },
         { src: "imagenes/elorza/torre129-a.jpeg", description: "Torre 129 Antes", week: 8 },
         { src: "imagenes/elorza/torre129.jpeg", description: "Torre 129", week: 8 },
+
+        // Fotos de torres - ELORZA (Semana 9)
+        { src: "imagenes/elorza/torre130-a.jpeg", description: "Torre 130 Antes", week: 9 },
+        { src: "imagenes/elorza/torre130.jpeg", description: "Torre 130", week: 9 },
+        { src: "imagenes/elorza/torre131-a.jpeg", description: "Torre 131 Antes", week: 9 },
+        { src: "imagenes/elorza/torre131.jpeg", description: "Torre 131", week: 9 },
+        { src: "imagenes/elorza/torre132-a.jpeg", description: "Torre 132 Antes", week: 9 },
+        { src: "imagenes/elorza/torre132.jpeg", description: "Torre 132", week: 9 },
+        { src: "imagenes/elorza/torre133.jpeg", description: "Torre 133", week: 9 },
+
            
              
         ];
@@ -293,7 +303,8 @@ document.addEventListener("DOMContentLoaded", () => {
             { src: "imagenes/elorza/tramo119-120.jpeg", description: "Vano 119-120", week: 7 },
             { src: "imagenes/elorza/tramo120-121.jpeg", description: "Vano 120-121", week: 7 },
             { src: "imagenes/elorza/tramo121-122.jpeg", description: "Vano 121-122", week: 7 },
-        // Añade más fotos de tramos en mantenimiento según sea necesario
+        // Añade más fotos de tramos en mantenimiento según sea 
+          { src: "imagenes/elorza/tramo130-131.jpeg", description: "Vano 130-131", week: 9 },
     ];
 
 
