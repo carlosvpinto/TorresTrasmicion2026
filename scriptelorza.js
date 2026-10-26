@@ -254,8 +254,16 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/elorza/torre132-a.jpeg", description: "Torre 132 Antes", week: 9 },
         { src: "imagenes/elorza/torre132.jpeg", description: "Torre 132", week: 9 },
         { src: "imagenes/elorza/torre133.jpeg", description: "Torre 133", week: 9 },
+        { src: "imagenes/elorza/torre152-a.jpeg", description: "Torre 152 Antes", week: 9 },
+        { src: "imagenes/elorza/torre152.jpeg", description: "Torre 152", week: 9 },
+        { src: "imagenes/elorza/torre153-a.jpeg", description: "Torre 153 Antes", week: 9 },
+        { src: "imagenes/elorza/torre153.jpeg", description: "Torre 153", week: 9 },
+        { src: "imagenes/elorza/torre154-a.jpeg", description: "Torre 154 Antes", week: 9 },
+        { src: "imagenes/elorza/torre154.jpeg", description: "Torre 154", week: 9 },
+        { src: "imagenes/elorza/torre155-a.jpeg", description: "Torre 155 Antes", week: 9 },
+        { src: "imagenes/elorza/torre155.jpeg", description: "Torre 155", week: 9 },
 
-           
+        
              
         ];
     
