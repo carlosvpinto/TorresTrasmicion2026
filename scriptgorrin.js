@@ -30,8 +30,9 @@ document.addEventListener("DOMContentLoaded", () => {
     // FOTOS GENERALES: Tramo LT San Fernando 1 - Gorrin
     // =========================================================
  const photos = [
+        // =========================================================
         // SEMANA 1
-        
+        // =========================================================
         { src: "imagenes/gorrin/foto1.jpeg", description: "Foto 1", week: 1 },
         { src: "imagenes/gorrin/torre1.jpeg", description: "Torre 1", week: 1 },
         { src: "imagenes/gorrin/torre2-a.jpeg", description: "Torre 2 Antes", week: 1 },
@@ -64,7 +65,27 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/gorrin/torre27-a.jpeg", description: "Torre 27 Antes", week: 1 },
         { src: "imagenes/gorrin/torre27.jpeg", description: "Torre 27", week: 1 },
         { src: "imagenes/gorrin/torre29-a.jpeg", description: "Torre 29 Antes", week: 1 },
-        { src: "imagenes/gorrin/torre29.jpeg", description: "Torre 29", week: 1 }
+        { src: "imagenes/gorrin/torre29.jpeg", description: "Torre 29", week: 1 },
+
+        // =========================================================
+        // SEMANA 2 (Nuevas y culminaciones)
+        // =========================================================
+        { src: "imagenes/gorrin/torre13.jpeg", description: "Torre 13", week: 2 },
+        { src: "imagenes/gorrin/torre16-a.jpeg", description: "Torre 16 Antes", week: 2 },
+        { src: "imagenes/gorrin/torre20-a.jpeg", description: "Torre 20 Antes", week: 2 },
+        { src: "imagenes/gorrin/torre21-a.jpeg", description: "Torre 21 Antes", week: 2 },
+        { src: "imagenes/gorrin/torre22-a.jpeg", description: "Torre 22 Antes", week: 2 },
+        { src: "imagenes/gorrin/torre22.jpeg", description: "Torre 22", week: 2 },
+        { src: "imagenes/gorrin/torre24-1.jpeg", description: "Torre 24 Detalle", week: 2 },
+        { src: "imagenes/gorrin/torre25-1.jpeg", description: "Torre 25 Detalle", week: 2 },
+        { src: "imagenes/gorrin/torre27-1.jpeg", description: "Torre 27 Detalle", week: 2 },
+        { src: "imagenes/gorrin/torre28.jpeg", description: "Torre 28", week: 2 },
+        { src: "imagenes/gorrin/torre30-a.jpeg", description: "Torre 30 Antes", week: 2 },
+        { src: "imagenes/gorrin/torre30.jpeg", description: "Torre 30", week: 2 },
+        { src: "imagenes/gorrin/torre130-a.jpeg", description: "Torre 130 Antes", week: 2 },
+        { src: "imagenes/gorrin/torre130.jpeg", description: "Torre 130", week: 2 },
+        { src: "imagenes/gorrin/torre131-a.jpeg", description: "Torre 131 Antes", week: 2 },
+        { src: "imagenes/gorrin/torre131.jpeg", description: "Torre 131", week: 2 }
     ];
 
     // =========================================================
@@ -76,7 +97,6 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/gorrin/tramo8-9.jpeg", description: "Tramo 8 - 9", week: 1 },
         { src: "imagenes/gorrin/tramo9-10.jpeg", description: "Tramo 9 - 10", week: 1 }
     ];
-
 
     // =========================================================
     // VIDEOS: Tramo LT San Fernando 1 - Gorrin
