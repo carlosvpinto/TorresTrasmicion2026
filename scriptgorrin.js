@@ -85,7 +85,25 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/gorrin/torre130-a.jpeg", description: "Torre 130 Antes", week: 2 },
         { src: "imagenes/gorrin/torre130.jpeg", description: "Torre 130", week: 2 },
         { src: "imagenes/gorrin/torre131-a.jpeg", description: "Torre 131 Antes", week: 2 },
-        { src: "imagenes/gorrin/torre131.jpeg", description: "Torre 131", week: 2 }
+        { src: "imagenes/gorrin/torre131.jpeg", description: "Torre 131", week: 2 },
+
+        // SEMANA 3
+        { src: "imagenes/gorrin/torre33-a.jpeg", description: "Torre 33 Antes", week: 3 },
+        { src: "imagenes/gorrin/torre33.jpeg", description: "Torre 33", week: 3 },
+        { src: "imagenes/gorrin/torre34-a.jpeg", description: "Torre 34 Antes", week: 3 },
+        { src: "imagenes/gorrin/torre34.jpeg", description: "Torre 34", week: 3 },
+        { src: "imagenes/gorrin/torre35-a.jpeg", description: "Torre 35 Antes", week: 3 },
+        { src: "imagenes/gorrin/torre35.jpeg", description: "Torre 35", week: 3 },
+        { src: "imagenes/gorrin/torre36-a.jpeg", description: "Torre 36 Antes", week: 3 },
+        { src: "imagenes/gorrin/torre36.jpeg", description: "Torre 36", week: 3 },
+        { src: "imagenes/gorrin/torre37-a.jpeg", description: "Torre 37 Antes", week: 3 },
+        { src: "imagenes/gorrin/torre37.jpeg", description: "Torre 37", week: 3 },
+        { src: "imagenes/gorrin/torre38-a.jpeg", description: "Torre 38 Antes", week: 3 },
+        { src: "imagenes/gorrin/torre38.jpeg", description: "Torre 38", week: 3 },
+        { src: "imagenes/gorrin/torre39-a.jpeg", description: "Torre 39 Antes", week: 3 },
+        { src: "imagenes/gorrin/torre39.jpeg", description: "Torre 39", week: 3 },
+        { src: "imagenes/gorrin/torre40-a.jpeg", description: "Torre 40 Antes", week: 3 },
+        { src: "imagenes/gorrin/torre40.jpeg", description: "Torre 40", week: 3 }
     ];
 
     // =========================================================
@@ -95,7 +113,15 @@ document.addEventListener("DOMContentLoaded", () => {
         { src: "imagenes/gorrin/tramo6-7.jpeg", description: "Tramo 6 - 7", week: 1 },
         { src: "imagenes/gorrin/tramo7-8.jpeg", description: "Tramo 7 - 8", week: 1 },
         { src: "imagenes/gorrin/tramo8-9.jpeg", description: "Tramo 8 - 9", week: 1 },
-        { src: "imagenes/gorrin/tramo9-10.jpeg", description: "Tramo 9 - 10", week: 1 }
+        { src: "imagenes/gorrin/tramo9-10.jpeg", description: "Tramo 9 - 10", week: 1 },
+
+        // SEMANA 3
+        { src: "imagenes/gorrin/tramo21-22.jpeg", description: "Tramo 21 - 22", week: 3 },
+        { src: "imagenes/gorrin/tramo34-35.jpeg", description: "Tramo 34 - 35", week: 3 },
+        { src: "imagenes/gorrin/tramo35-36.jpeg", description: "Tramo 35 - 36", week: 3 },
+      
+        { src: "imagenes/gorrin/tramo37-38.jpeg", description: "Tramo 37 - 38", week: 3 },
+        
     ];
 
     // =========================================================
