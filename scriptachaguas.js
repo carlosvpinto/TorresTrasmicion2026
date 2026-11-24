@@ -56,12 +56,7 @@ const photos = [
     { src: "imagenes/achaguas/torre41-a.jpeg", description: "Torre 41 Antes", week: 3 },
     { src: "imagenes/achaguas/torre42.jpeg", description: "Torre 42", week: 3 },
 
-    { src: "imagenes/achaguas/tramo38-39.jpeg", description: "Vano 38-39", week: 3 },
-    { src: "imagenes/achaguas/tramo39-40.jpeg", description: "Vano 39-40", week: 3 },
-    { src: "imagenes/achaguas/tramo40-41.jpeg", description: "Vano 40-41", week: 3 },
-    { src: "imagenes/achaguas/tramo41-42.jpeg", description: "Vano 41-42", week: 3 },
-    { src: "imagenes/achaguas/tramo42-43.jpeg", description: "Vano 42-43", week: 3 },
-
+ 
     { src: "imagenes/achaguas/torre45.jpeg", description: "Torre 45", week: 3 },
     { src: "imagenes/achaguas/torre45-a.jpeg", description: "Torre 45 Antes", week: 3 },
     { src: "imagenes/achaguas/torre46.jpeg", description: "Torre 46", week: 3 },
@@ -73,10 +68,7 @@ const photos = [
     { src: "imagenes/achaguas/torre49.jpeg", description: "Torre 49", week: 3 },
     { src: "imagenes/achaguas/torre49-a.jpeg", description: "Torre 49 Antes", week: 3 },
     
-    { src: "imagenes/achaguas/tramo45-46.jpeg", description: "Vano 45-46", week: 3 },
-    { src: "imagenes/achaguas/tramo47-48d.jpeg", description: "Vano 47-48 Despues", week: 3 },
-    { src: "imagenes/achaguas/tramo47-48.jpeg", description: "Vano 47-48 Antes", week: 3 },
-    { src: "imagenes/achaguas/tramo48-49.jpeg", description: "Vano 48-49", week: 3 },
+   
 
     // SEMANA 4
     { src: "imagenes/achaguas/torre51.jpeg", description: "Torre 51", week: 4 },
@@ -90,16 +82,7 @@ const photos = [
     { src: "imagenes/achaguas/torre55.jpeg", description: "Torre 55", week: 4 },
     { src: "imagenes/achaguas/torre55-a.jpeg", description: "Torre 55 Antes", week: 4 },
       
-    { src: "imagenes/achaguas/tramo44-45.jpeg", description: "Vano 44-45", week: 4 },
-    { src: "imagenes/achaguas/tramo45-46.jpeg", description: "Vano 45-46", week: 4 },
-    { src: "imagenes/achaguas/tramo47-48.jpeg", description: "Vano 47-48", week: 4 },
-    { src: "imagenes/achaguas/tramo48-49.jpeg", description: "Vano 48-49", week: 4 },
-    { src: "imagenes/achaguas/tramo49-50.jpeg", description: "Vano 49-50", week: 4 },
-    { src: "imagenes/achaguas/tramo53-54.jpeg", description: "Vano 53-54", week: 4 },
-    { src: "imagenes/achaguas/tramo54-55.jpeg", description: "Vano 54-55", week: 4 },
-    { src: "imagenes/achaguas/tramo55-56.jpeg", description: "Vano 55-56", week: 4 },
-    { src: "imagenes/achaguas/tramo56-57.jpeg", description: "Vano 56-57", week: 4 },
-
+   
     // SEMANA 5 (Nuevas fotos)
     { src: "imagenes/achaguas/torre59.jpeg", description: "Torre 59", week: 5 },
     { src: "imagenes/achaguas/torre61.jpeg", description: "Torre 61", week: 5 },
@@ -282,21 +265,22 @@ const photos = [
         { src: "imagenes/achaguas/torre143-a.jpeg", description: "Torre 143 Antes", week: 10 },
         { src: "imagenes/achaguas/torre143.jpeg", description: "Torre 143", week: 10 },
 
-       // Nuevos tramos añadidos a la SEMANA 9
-    { src: "imagenes/achaguas/tramo118-119.jpeg", description: "Vano 118-119", week: 6 },
-    { src: "imagenes/achaguas/tramo120-121.jpeg", description: "Vano 120-121", week: 6 },
-    { src: "imagenes/achaguas/tramo123-124.jpeg", description: "Vano 123-124", week: 6 },
-    { src: "imagenes/achaguas/tramo125-126.jpeg", description: "Vano 125-126", week: 6 },
+    
 
-    // Nuevos tramos añadidos a la SEMANA 10
-    { src: "imagenes/achaguas/tramo130-131.jpeg", description: "Vano 130-131", week: 10 },
-    { src: "imagenes/achaguas/tramo133-134.jpeg", description: "Vano 133-134", week: 10 },
-    { src: "imagenes/achaguas/tramo134-135.jpeg", description: "Vano 134-135", week: 10 },
-    { src: "imagenes/achaguas/tramo135-136.jpeg", description: "Vano 135-136", week: 10 },
-    { src: "imagenes/achaguas/tramo136-137.jpeg", description: "Vano 136-137", week: 10 },
-    { src: "imagenes/achaguas/tramo138-139.jpeg", description: "Vano 138-139", week: 10 },
-    { src: "imagenes/achaguas/tramo141-142.jpeg", description: "Vano 141-142", week: 10 },
-    { src: "imagenes/achaguas/tramo142-143.jpeg", description: "Vano 142-143", week: 10 },
+    // Nuevas torres añadidas a la SEMANA 11
+    { src: "imagenes/achaguas/torre146-a.jpeg", description: "Torre 146-A", week: 11 },
+    { src: "imagenes/achaguas/torre146.jpeg", description: "Torre 146", week: 11 },
+    { src: "imagenes/achaguas/torre147.jpg", description: "Torre 147", week: 11 },
+    { src: "imagenes/achaguas/torre148-a.jpeg", description: "Torre 148-A", week: 11 },
+    { src: "imagenes/achaguas/torre148.jpeg", description: "Torre 148", week: 11 },
+    { src: "imagenes/achaguas/torre149-a.jpeg", description: "Torre 149-A", week: 11 },
+    { src: "imagenes/achaguas/torre149.jpeg", description: "Torre 149", week: 11 },
+    { src: "imagenes/achaguas/torre150-a.jpeg", description: "Torre 150-A", week: 11 },
+    { src: "imagenes/achaguas/torre150.jpeg", description: "Torre 150", week: 11 },
+    { src: "imagenes/achaguas/torre151-a.jpeg", description: "Torre 151-A", week: 11 },
+    { src: "imagenes/achaguas/torre151.jpeg", description: "Torre 151", week: 11 },
+    { src: "imagenes/achaguas/torre152-a.jpeg", description: "Torre 152-A", week: 11 },
+    { src: "imagenes/achaguas/torre152.jpeg", description: "Torre 152", week: 11 },
     
     
 ];
@@ -309,28 +293,72 @@ const photos = [
     // FOTOS MANTENIMIENTO: Tramo San Fernando II - Achaguas
     // (Dejar vacío o agregar cuando tengas fotos de mantenimiento)
     // =========================================================
-    const maintenancePhotos = [
-        // Fotos de tramos - SEMANA 7
-        { src: "imagenes/achaguas/tramo92-93.jpeg", description: "Vano 92-93", week: 7 },
-        { src: "imagenes/achaguas/tramo93-94.jpeg", description: "Vano 93-94", week: 7 },
-        { src: "imagenes/achaguas/tramo101-102.jpeg", description: "Vano 101-102", week: 7 },
-        { src: "imagenes/achaguas/tramo102-103.jpeg", description: "Vano 102-103", week: 7 },
+   const maintenancePhotos = [
+    // Fotos de tramos - SEMANA 1 a 4 (Calculadas por secuencia)
+    { src: "imagenes/achaguas/tramo38-39.jpeg", description: "Vano 38-39", week: 1 },
+    { src: "imagenes/achaguas/tramo39-40.jpeg", description: "Vano 39-40", week: 1 },
+    { src: "imagenes/achaguas/tramo40-41.jpeg", description: "Vano 40-41", week: 1 },
+    { src: "imagenes/achaguas/tramo44-45.jpeg", description: "Vano 44-45", week: 2 },
+    { src: "imagenes/achaguas/tramo45-46.jpeg", description: "Vano 45-46", week: 2 },
+    { src: "imagenes/achaguas/tramo48-49.jpeg", description: "Vano 48-49", week: 3 },
+    { src: "imagenes/achaguas/tramo49-50.jpeg", description: "Vano 49-50", week: 3 },
+    { src: "imagenes/achaguas/tramo53-54.jpeg", description: "Vano 53-54", week: 4 },
+    { src: "imagenes/achaguas/tramo54-55.jpeg", description: "Vano 54-55", week: 4 },
+    { src: "imagenes/achaguas/tramo55-56.jpeg", description: "Vano 55-56", week: 4 },
+    { src: "imagenes/achaguas/tramo56-57.jpeg", description: "Vano 56-57", week: 4 },
 
-        // Fotos de tramos - SEMANA 8
-        { src: "imagenes/achaguas/tramo81-82.jpeg", description: "Vano 81-82", week: 8 },
-        { src: "imagenes/achaguas/tramo84-85.jpeg", description: "Vano 84-85", week: 8 },
-        { src: "imagenes/achaguas/tramo87-88.jpeg", description: "Vano 87-88", week: 8 },
-       // { src: "imagenes/achaguas/tramo88-89.jpeg", description: "Vano 88-89", week: 8 },
-        { src: "imagenes/achaguas/tramo89-90.jpeg", description: "Vano 89-90", week: 8 },
-        { src: "imagenes/achaguas/tramo99-100.jpeg", description: "Vano 99-100", week: 8 },
-
-        { src: "imagenes/achaguas/tramo79-80.jpeg", description: "Vano 79-80", week: 9 },
-        { src: "imagenes/achaguas/tramo81-80.jpeg", description: "Vano 81-80", week: 9 },
-        { src: "imagenes/achaguas/tramo92-81.jpeg", description: "Vano 92-81", week: 9 },
-
+    // Fotos de tramos - SEMANA 5
     { src: "imagenes/achaguas/tramo57-58.jpeg", description: "Vano 57-58", week: 5 },
-    { src: "imagenes/achaguas/tramo64-65.jpeg", description: "Vano 64-65", week: 5 }
-    ];
+    { src: "imagenes/achaguas/tramo64-65.jpeg", description: "Vano 64-65", week: 5 },
+    { src: "imagenes/achaguas/tramo65-66.jpeg", description: "Vano 65-66", week: 5 },
+
+    // Fotos de tramos - SEMANA 6 (Calculadas por secuencia)
+    { src: "imagenes/achaguas/tramo74-75.jpeg", description: "Vano 74-75", week: 6 },
+    { src: "imagenes/achaguas/tramo110-111.jpeg", description: "Vano 110-111", week: 6 },
+    { src: "imagenes/achaguas/tramo111-112.jpeg", description: "Vano 111-112", week: 6 },
+    { src: "imagenes/achaguas/tramo112-113.jpeg", description: "Vano 112-113", week: 6 },
+    { src: "imagenes/achaguas/tramo113-114.jpeg", description: "Vano 113-114", week: 6 },
+
+    // Fotos de tramos - SEMANA 7
+    { src: "imagenes/achaguas/tramo92-93.jpeg", description: "Vano 92-93", week: 7 },
+    { src: "imagenes/achaguas/tramo93-94.jpeg", description: "Vano 93-94", week: 7 },
+    { src: "imagenes/achaguas/tramo101-102.jpeg", description: "Vano 101-102", week: 7 },
+    { src: "imagenes/achaguas/tramo102-103.jpeg", description: "Vano 102-103", week: 7 },
+    { src: "imagenes/achaguas/tramo118-119.jpeg", description: "Vano 118-119", week: 7 },
+    { src: "imagenes/achaguas/tramo120-121.jpeg", description: "Vano 120-121", week: 7 },
+
+    // Fotos de tramos - SEMANA 8
+    { src: "imagenes/achaguas/tramo81-82.jpeg", description: "Vano 81-82", week: 8 },
+    { src: "imagenes/achaguas/tramo84-85.jpeg", description: "Vano 84-85", week: 8 },
+    { src: "imagenes/achaguas/tramo87-88.jpeg", description: "Vano 87-88", week: 8 },
+    // { src: "imagenes/achaguas/tramo88-89.jpeg", description: "Vano 88-89", week: 8 },
+    { src: "imagenes/achaguas/tramo89-90.jpeg", description: "Vano 89-90", week: 8 },
+    { src: "imagenes/achaguas/tramo99-100.jpeg", description: "Vano 99-100", week: 8 },
+    { src: "imagenes/achaguas/tramo123-124.jpeg", description: "Vano 123-124", week: 8 },
+    { src: "imagenes/achaguas/tramo125-126.jpeg", description: "Vano 125-126", week: 8 },
+
+    // Fotos de tramos - SEMANA 9
+    { src: "imagenes/achaguas/tramo79-80.jpeg", description: "Vano 79-80", week: 9 },
+    { src: "imagenes/achaguas/tramo81-80.jpeg", description: "Vano 81-80", week: 9 },
+    { src: "imagenes/achaguas/tramo92-81.jpeg", description: "Vano 92-81", week: 9 },
+
+    // Fotos de tramos - SEMANA 10
+    { src: "imagenes/achaguas/tramo130-131.jpeg", description: "Vano 130-131", week: 10 },
+    { src: "imagenes/achaguas/tramo133-134.jpeg", description: "Vano 133-134", week: 10 },
+    { src: "imagenes/achaguas/tramo134-135.jpeg", description: "Vano 134-135", week: 10 },
+    { src: "imagenes/achaguas/tramo135-136.jpeg", description: "Vano 135-136", week: 10 },
+    { src: "imagenes/achaguas/tramo136-137.jpeg", description: "Vano 136-137", week: 10 },
+    { src: "imagenes/achaguas/tramo138-139.jpeg", description: "Vano 138-139", week: 10 },
+    { src: "imagenes/achaguas/tramo141-142.jpeg", description: "Vano 141-142", week: 10 },
+    { src: "imagenes/achaguas/tramo142-143.jpeg", description: "Vano 142-143", week: 10 },
+
+    // Nuevos tramos añadidos a la SEMANA 11 (Archivos nuevos 'U')
+    { src: "imagenes/achaguas/tramo146-147.jpeg", description: "Vano 146-147", week: 11 },
+    { src: "imagenes/achaguas/tramo148-149.jpeg", description: "Vano 148-149", week: 11 },
+    { src: "imagenes/achaguas/tramo150-151.jpeg", description: "Vano 150-151", week: 11 },
+    { src: "imagenes/achaguas/tramo151-152.jpeg", description: "Vano 151-152", week: 11 },
+    { src: "imagenes/achaguas/tramo152-153.jpeg", description: "Vano 152-153", week: 11 }
+];
 
     // =========================================================
     // VIDEOS: Tramo San Fernando II - Achaguas
